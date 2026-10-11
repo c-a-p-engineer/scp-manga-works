@@ -8,7 +8,7 @@
 
 - 📚 **[エピソード一覧・進捗表](episodes/README.md)** — 話数、題材、ネーム、画像、公開状態を管理する**唯一の一覧**
 - 📖 [連載の構想・継続設定](series/README.md)
-- 👤 [固定キャラクター・登場人物一覧](characters/README.md) — **[ゴールディ画像生成リファレンス](characters/CHAR-001_BAT_REFERENCE.md)** ／ [詳細キャラクターシート](characters/CHAR-001_BAT.md)
+- 👤 [固定キャラクター・登場人物一覧](characters/README.md) — [バット画像参照](characters/CHAR-001_BAT_REFERENCE.md) ／ **[セッター画像参照](characters/CHAR-002_SETTER_REFERENCE.md)**
 - 🧾 [原作クレジットとライセンス](CREDITS.md)
 - 📝 [新しいエピソードの雛形](episodes/TEMPLATE.md)
 
@@ -25,6 +25,13 @@
 [三面図・表情差分の原寸PNG](characters/assets/CHAR-001_BAT_turnaround-v1.png) ／ [画像生成向け運用ルール](characters/CHAR-001_BAT_REFERENCE.md)
 
 ※ **v1単体立ち絵が顔・髪・衣装の正本**。この三面図は角度と表情の補助参照です。
+
+### CHAR-002 — 七星（セッター）
+
+- **[設定・採用画像の固定条件（キャラクターシート v1.0）](characters/CHAR-002_SETTER.md)**
+- **[生成用ショートリファレンス](characters/CHAR-002_SETTER_REFERENCE.md)**
+
+40代前半、約190cm・100kg、熊のような大柄な主任研究員。無精髭・眼鏡・緩い濃紺ネクタイ・ジッポ。**採用済み原画と生成した三面図は画像ファイルのGitHub登録待ち**。確認後、キャラクターシートにPNGを表示します。
 
 ## 最初のエピソード
 
