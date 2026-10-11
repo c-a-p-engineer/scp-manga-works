@@ -1,0 +1,18 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary / rebuildable files
+*.tmp
+*.bak
+*.swp
+.cache/
+tmp/
+temp/
+node_modules/
+__pycache__/
+.venv/
+
+# Do not globally ignore PNG/SVG: selected manga images belong in Git.
