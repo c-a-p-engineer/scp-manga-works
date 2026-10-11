@@ -8,7 +8,7 @@
 
 - 📚 **[エピソード一覧・進捗表](episodes/README.md)** — 話数、題材、ネーム、画像、公開状態を管理する**唯一の一覧**
 - 📖 [連載の構想・継続設定](series/README.md)
-- 👤 [固定キャラクター・登場人物一覧](characters/README.md) — [バット画像参照](characters/CHAR-001_BAT_REFERENCE.md) ／ **[セッター画像参照](characters/CHAR-002_SETTER_REFERENCE.md)**
+- 👤 [固定キャラクター・登場人物一覧](characters/README.md) — [バット画像参照](characters/CHAR-001_BAT_REFERENCE.md) ／ **[セッター画像参照](characters/CHAR-002_SETTER_REFERENCE.md)** ／ **[峰画像参照](characters/CHAR-003_MINE_REFERENCE.md)**
 - 🧾 [原作クレジットとライセンス](CREDITS.md)
 - 📝 [新しいエピソードの雛形](episodes/TEMPLATE.md)
 
@@ -43,6 +43,23 @@
 
 ※ 新しい三面図は補助参照。顔・体格・衣装の正本は採用済み基準画像と確定設定です。
 
+### CHAR-003 — 峰（ミネ）
+
+- **[キャラクターシート v1.0（設定と採用前の暫定細部）](characters/CHAR-003_MINE.md)**
+- **[画像生成用ショートリファレンス](characters/CHAR-003_MINE_REFERENCE.md)**
+
+40歳前後、細目・垂れ目・柔らかい体つき、ブラウス・スカート・低いヒール。潜入・調査・情報収集に秀でた**非戦闘型エージェント**。ルートにアップされた人物参照・喫煙参照の2枚を整理済み。
+
+<a href="characters/CHAR-003_MINE.md"><img src="characters/assets/CHAR-003_MINE_reference-v1.png" alt="峰の人物・衣装・表情リファレンス" width="280"></a>
+
+[人物・衣装の基準参照PNG](characters/assets/CHAR-003_MINE_reference-v1.png)
+
+<a href="characters/assets/CHAR-003_MINE_smoking-v1.png"><img src="characters/assets/CHAR-003_MINE_smoking-v1.png" alt="峰の喫煙所作・表情リファレンス" width="420"></a>
+
+[喫煙時リファレンスPNG](characters/assets/CHAR-003_MINE_smoking-v1.png)
+
+※ **人物画像を同一性の第一参照、喫煙画像を状態差分の補助参照**とする。ユーザー指定以外の画像細部は未確定。
+
 ## 最初のエピソード
 
 **[EP001 — SCP-650「見てないと来る」（仮題）](episodes/EP001_SCP-650/README.md)**
@@ -58,6 +75,10 @@ scp-manga-works/
 ├── CREDITS.md                   # 権利表記の入口
 ├── series/README.md             # 世界観・連載の方向性
 ├── characters/README.md         # 固定人物の一覧
+├── characters/CHAR-003_MINE.md  # 峰の設定と画像
+├── characters/CHAR-003_MINE_REFERENCE.md  # 峰の生成用参照
+├── characters/assets/CHAR-003_MINE_reference-v1.png  # 峰の人物参照
+├── characters/assets/CHAR-003_MINE_smoking-v1.png    # 峰の喫煙参照
 └── episodes/
     ├── README.md                # 話数一覧（正本）
     ├── TEMPLATE.md              # 新話の記録用雛形
