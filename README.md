@@ -12,6 +12,12 @@
 - 🧾 [原作クレジットとライセンス](CREDITS.md)
 - 📝 [新しいエピソードの雛形](episodes/TEMPLATE.md)
 
+## 固定キャラクターの基準画像
+
+<a href="characters/CHAR-001_BAT.md"><img src="characters/assets/CHAR-001_BAT_reference-v1.png" alt="ゴールディ（バット）の基準ビジュアル v1.0" width="250"></a>
+
+[ゴールディ（バット） — Character Sheet v1.0](characters/CHAR-001_BAT.md) ／ [原寸PNG](characters/assets/CHAR-001_BAT_reference-v1.png)
+
 ## 最初のエピソード
 
 **[EP001 — SCP-650「見てないと来る」（仮題）](episodes/EP001_SCP-650/README.md)**

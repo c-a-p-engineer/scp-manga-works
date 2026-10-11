@@ -3,7 +3,13 @@
 > **Character Sheet v1.0 / 外見確定：2026-10-11**  
 > 「ヤニカスSCP研究室」連作漫画の主人公。**今回承認されたキャラクター画像をビジュアル基準**とする。設定と画像に細部の差がある場合は、ユーザーが明示した特徴（例：ポケットを目立たせない）を壊さず、採用画像の全体印象を再現する。
 >
-> **画像保存状況**：画像はこの会話で採用済み。GitHubの本リポジトリへは画像本体をまだ登録していない。画像アーカイブの想定パスは `characters/assets/CHAR-001_BAT_reference-v1.png`。存在を確認するまでは画像リンクを貼らない。
+> **画像保存状況**：採用済みの基準画像を [characters/assets/CHAR-001_BAT_reference-v1.png](assets/CHAR-001_BAT_reference-v1.png) に保存。以下に表示する画像を、漫画制作時の**キャラクター同一性の基準**とする。
+
+## 採用ビジュアル v1.0
+
+<a href="assets/CHAR-001_BAT_reference-v1.png"><img src="assets/CHAR-001_BAT_reference-v1.png" alt="ゴールディ（バット）キャラクター全身設定画像 v1.0" width="390"></a>
+
+**[原寸PNGを開く](assets/CHAR-001_BAT_reference-v1.png)** ／ 画像は2026-10-11に採用したものをそのまま移動（再圧縮・再生成なし）。
 
 ## アイデンティティ
 
