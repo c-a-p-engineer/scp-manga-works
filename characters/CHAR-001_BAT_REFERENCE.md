@@ -47,11 +47,17 @@
 
 > Goldie “Bat”, an adult petite Japanese-anime-styled blonde female scientist in her early 20s, about 150 cm, slim and slightly hunched, languid cute small-animal charm. Fine slightly messy blonde shoulder-near medium-length hair in a loose half-up style, side-swept bangs; deep crimson half-lidded jito-me eyes, **no dark circles**. Oversized rolled-sleeve white lab coat, white collared shirt with top buttons casually open, black necktie secured with a tie clip, loose black trousers and black loafers. Maintain facial identity and clothing from the **attached approved character reference image**, NOT its original pose or smoking state. She smokes only during breaks, never while researching. Keep hair/eyes/outfit exactly consistent across panels.
 
-## 新規生成した複数ビューの候補画像
+## 複数ビュー・表情差分の補助リファレンス
 
-- 2026-10-11：採用済み立ち絵を参照して、正面寄りの立ち姿・背面3/4・顔アップ・喫煙中の表情を示す**新しい参考候補画像**を生成。
-- **ステータス：未承認の候補。** 既存のv1画像が人物identityの正本。候補画像に外見の差があれば正本を優先する。
-- 候補画像は制作環境内にあり、このGitHubリポジトリに**画像バイナリとしてはまだ保存していない**。画像を正式採用・アップロードした場合のみ、以下にパスを追加する。
+![バットの正面・側面・背面・3/4・表情差分](assets/CHAR-001_BAT_turnaround-v1.png)
+
+[原寸PNGを開く](assets/CHAR-001_BAT_turnaround-v1.png)
+
+- **収録角度**：正面・側面・背面・斜め（3/4）と顔アップ、喫煙シーン。
+- **役割**：漫画内で向きが変わった時の髪・白衣・全身シルエットの**補助参照**。
+- **採用・優先度**：ユーザーアップロード版を保存したもの。**同一性の正本は `assets/CHAR-001_BAT_reference-v1.png`**。複数ビューに描画差異がある場合は、基準画像と本書の固定特徴を優先し、画像だけを理由に設定を上書きしない。
+- **画像を実際に渡す**：生成ツールに必要に応じて両方のPNGの実体を添付する。GitHubファイル名やリンクをプロンプトに書く**だけ**では視覚参照されない。
+
 
 ## 関連
 

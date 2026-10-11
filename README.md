@@ -16,7 +16,15 @@
 
 <a href="characters/CHAR-001_BAT.md"><img src="characters/assets/CHAR-001_BAT_reference-v1.png" alt="ゴールディ（バット）の基準ビジュアル v1.0" width="250"></a>
 
-[ゴールディ（バット） — Character Sheet v1.0](characters/CHAR-001_BAT.md) ／ [原寸PNG](characters/assets/CHAR-001_BAT_reference-v1.png)
+[ゴールディ（バット） — Character Sheet v1.0](characters/CHAR-001_BAT.md) ／ [基準画像PNG](characters/assets/CHAR-001_BAT_reference-v1.png)
+
+### 角度別リファレンス（三面図・表情）
+
+<a href="characters/assets/CHAR-001_BAT_turnaround-v1.png"><img src="characters/assets/CHAR-001_BAT_turnaround-v1.png" alt="バットの正面・側面・背面・斜め・表情差分リファレンス" width="540"></a>
+
+[三面図・表情差分の原寸PNG](characters/assets/CHAR-001_BAT_turnaround-v1.png) ／ [画像生成向け運用ルール](characters/CHAR-001_BAT_REFERENCE.md)
+
+※ **v1単体立ち絵が顔・髪・衣装の正本**。この三面図は角度と表情の補助参照です。
 
 ## 最初のエピソード
 

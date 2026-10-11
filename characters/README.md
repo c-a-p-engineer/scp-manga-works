@@ -18,7 +18,13 @@
 
 <a href="CHAR-001_BAT.md"><img src="assets/CHAR-001_BAT_reference-v1.png" alt="バットの基準ビジュアル" width="220"></a>
 
-**[画像生成用・短縮リファレンス](CHAR-001_BAT_REFERENCE.md)** ／ **[キャラクターシート v1.0（詳細設定）](CHAR-001_BAT.md)** — 2026-10-11採用画像を `assets/` に保管。固定ビジュアルとして漫画制作に使用。
+**[画像生成用・短縮リファレンス](CHAR-001_BAT_REFERENCE.md)** ／ **[キャラクターシート v1.0（詳細設定）](CHAR-001_BAT.md)** — 採用済みの単体立ち絵を同一性の正本として使用。
+
+**[三面図・表情差分（補助参照）](assets/CHAR-001_BAT_turnaround-v1.png)**
+
+<a href="assets/CHAR-001_BAT_turnaround-v1.png"><img src="assets/CHAR-001_BAT_turnaround-v1.png" alt="ゴールディ（バット）の正面、横、後ろ、斜め、表情リファレンス" width="440"></a>
+
+この三面図は補助リファレンスです。基準立ち絵と違う部分がある場合は、基準立ち絵と確定した文章設定を優先します。
 
 
 - 女性、20代前半、身長約150cm、**金髪・赤目**（確定）
