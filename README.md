@@ -31,7 +31,17 @@
 - **[設定・採用画像の固定条件（キャラクターシート v1.0）](characters/CHAR-002_SETTER.md)**
 - **[生成用ショートリファレンス](characters/CHAR-002_SETTER_REFERENCE.md)**
 
-40代前半、約190cm・100kg、熊のような大柄な主任研究員。無精髭・眼鏡・緩い濃紺ネクタイ・ジッポ。**採用済み原画と生成した三面図は画像ファイルのGitHub登録待ち**。確認後、キャラクターシートにPNGを表示します。
+40代前半、約190cm・100kg、熊のような大柄な主任研究員。無精髭・眼鏡・緩い濃紺ネクタイ・ジッポ。**採用済み基準画像と三面図のPNGをGitHubに登録済み**。
+
+<a href="characters/CHAR-002_SETTER.md"><img src="characters/assets/CHAR-002_SETTER_reference-v1.png" alt="七星（セッター）採用済み基準画像" width="250"></a>
+
+[基準画像PNG](characters/assets/CHAR-002_SETTER_reference-v1.png)
+
+<a href="characters/assets/CHAR-002_SETTER_turnaround-v1.png"><img src="characters/assets/CHAR-002_SETTER_turnaround-v1.png" alt="セッター正面・側面・背面・顔アップ画像" width="540"></a>
+
+[三面図・顔アップPNG](characters/assets/CHAR-002_SETTER_turnaround-v1.png) ／ [画像生成時の参照ルール](characters/CHAR-002_SETTER_REFERENCE.md)
+
+※ 新しい三面図は補助参照。顔・体格・衣装の正本は採用済み基準画像と確定設定です。
 
 ## 最初のエピソード
 

@@ -2,14 +2,26 @@
 
 > **Studio Character Identity用の短縮参照**。人物の外見の正本は[詳細キャラクターシート](CHAR-002_SETTER.md)と、承認済みのセッター立ち絵。下の名前「燻」は仮。
 
+## 人物同一性の正本
+
+![セッター採用済みキャラクター画像](assets/CHAR-002_SETTER_reference-v1.png)
+
+[採用済み基準画像PNG](assets/CHAR-002_SETTER_reference-v1.png)
+
+## 角度別・顔アップの補助リファレンス
+
+![セッター正面・側面・背面・顔アップ設定資料](assets/CHAR-002_SETTER_turnaround-v1.png)
+
+[三面図・顔アップPNG](assets/CHAR-002_SETTER_turnaround-v1.png)
+
 ## 画像ファイルの役割
 
-| 種別 | GitHub登録予定パス | 使用上の扱い |
+| 種別 | GitHub保存先 | 使用上の扱い |
 | --- | --- | --- |
-| **正本**：ユーザーが承認済みの全身＋顔アップ＋ジッポ着火画像 | `assets/CHAR-002_SETTER_reference-v1.png` | **identity第一基準** |
-| **補助**：正面・横・背面・斜め＋顔表情等の新規三面図 | `assets/CHAR-002_SETTER_turnaround-v1.png` | **ユーザー確認待ち**。本書と正本より優先しない |
+| **正本**：ユーザーが承認済みの全身＋顔アップ＋ジッポ着火画像 | [assets/CHAR-002_SETTER_reference-v1.png](assets/CHAR-002_SETTER_reference-v1.png) | **identity第一基準** |
+| **補助**：正面・側面・背面・顔アップの三面図 | [assets/CHAR-002_SETTER_turnaround-v1.png](assets/CHAR-002_SETTER_turnaround-v1.png) | **角度別の補助参照**。本書と正本より優先しない |
 
-**現状**：上記PNGは未コミット。画像をGitHubに登録するまではリンクやMarkdown画像タグを作らない。提供されたPNGの中身を確認し、アップロード後にリンクを有効化する。
+**現状**：2点ともGitHub保存済み。画像モデルへ渡す際はPNGの実体を添付し、単なるURL指定で添付済みと誤認しないこと。
 
 ## IDENTIFY（毎回必須）
 

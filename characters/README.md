@@ -48,7 +48,15 @@
 - セブンスターの愛煙家。**ライターはジッポ**。くわえタバコは人物を表す記号だが、財団の禁煙・収容ルールを優先する。
 - 非常に有能で、部下への信頼が厚い。出世より居場所を重視し、責任感から仕事を抱え込みがち。
 - 姓「七星」と愛称「セッター」は確定、下の名「燻」は仮。
-- 承認済み原画・新規三面図のPNGは**GitHubへのアップロード待ち**。現時点では文章シートと参照手順を正規保存済み。
+- 基準原画と三面図・顔アップのPNGを `characters/assets/` に登録済み。以下で確認できる。
+
+<a href="CHAR-002_SETTER.md"><img src="assets/CHAR-002_SETTER_reference-v1.png" alt="七星セッター採用済み原画" width="240"></a>
+
+<a href="assets/CHAR-002_SETTER_turnaround-v1.png"><img src="assets/CHAR-002_SETTER_turnaround-v1.png" alt="セッター正面側面背面顔アップ" width="480"></a>
+
+[基準画像PNG](assets/CHAR-002_SETTER_reference-v1.png) ／ [三面図PNG](assets/CHAR-002_SETTER_turnaround-v1.png)
+
+基準画像が人物同一性の第一参照。三面図は角度別の補助参照。
 
 ## CHAR-003 — 峰
 
@@ -72,4 +80,4 @@
 
 ## 画像一貫性
 
-名前・呼称・衣装の変更履歴を話数間で管理する。**バット・セッターの個別Character Sheetは作成済み**。画像の正規保存先は [assets/CHAR-001_BAT_reference-v1.png](assets/CHAR-001_BAT_reference-v1.png)。各話の生成でこの画像を参照する。髪・目・体格などの固定特徴と、場面に応じた服装状態を区別する。
+名前・呼称・衣装の変更履歴を話数間で管理する。**バット・セッターの個別Character Sheetは作成済み**。人物同一性の正規基準画像は [バット](assets/CHAR-001_BAT_reference-v1.png) と [セッター](assets/CHAR-002_SETTER_reference-v1.png)。必要に応じて角度別の補助画像も使う。各話の生成でこれらの画像実体を紐付ける。髪・目・体格などの固定特徴と、場面に応じた服装状態を区別する。
