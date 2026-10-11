@@ -8,7 +8,7 @@
 
 - 📚 **[エピソード一覧・進捗表](episodes/README.md)** — 話数、題材、ネーム、画像、公開状態を管理する**唯一の一覧**
 - 📖 [連載の構想・継続設定](series/README.md)
-- 👤 [固定キャラクター・登場人物一覧](characters/README.md) — **[ゴールディ（バット）のキャラクターシート v1.0](characters/CHAR-001_BAT.md)**
+- 👤 [固定キャラクター・登場人物一覧](characters/README.md) — **[ゴールディ画像生成リファレンス](characters/CHAR-001_BAT_REFERENCE.md)** ／ [詳細キャラクターシート](characters/CHAR-001_BAT.md)
 - 🧾 [原作クレジットとライセンス](CREDITS.md)
 - 📝 [新しいエピソードの雛形](episodes/TEMPLATE.md)
 
