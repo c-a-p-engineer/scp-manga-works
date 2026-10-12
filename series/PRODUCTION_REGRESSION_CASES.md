@@ -1,6 +1,6 @@
 # 実制作からの回帰ケース — SCPと一服
 
-この記録は作品固有の **検証用Evidence / Acceptance** であり、汎用SkillやStudio実装の第二の正規定義ではない。Studioの仕様・実装変更は [Studio AGENTS.md](https://github.com/c-a-p-engineer/manga-blueprint-studio/blob/master/AGENTS.md)、画像生成Handoffは同Repoの \`docs/PROMPT_HANDOFF.md\` を正とする。
+この記録は作品固有の **検証用Evidence / Acceptance** であり、汎用SkillやStudio実装の第二の正規定義ではない。Studioの仕様・実装変更は [Studio AGENTS.md](https://github.com/c-a-p-engineer/manga-blueprint-studio/blob/master/AGENTS.md)、画像生成Handoffは同Repoの `docs/PROMPT_HANDOFF.md` を正とする。
 
 以下は「以前問題になったため、次の制作で実際の出力から再確認したい」項目。文章ネーム、SCP原典、参照画像の内容を「生成画像を観測した証拠」として代用しない。
 
@@ -12,7 +12,7 @@
 - **Identity正本**: [ゴールディ](../characters/CHAR-001_BAT_REFERENCE.md)、[七星](../characters/CHAR-002_SETTER_REFERENCE.md)、[峰](../characters/CHAR-003_MINE_REFERENCE.md)と各参照PNGの実画像。画像に写っている人物Identityだけを比較する。
 - **Styleのみ採用**: 低彩度のグレー、柔らかい陰影、スクリーントーン、意味がある部分だけのスポットカラー。SCP-4999の候補から顔・衣装・人物サイズを推定しない。
 - **受入**: ページの全コマで各人物の顔・髪・体格・服装がIdentity/連続性を満たし、指定のStyleも満たす。Style適合だけでは人物Identityをpassにしない。
-- **自動検証対象**: \`referenceAssets[].role=style\` のみでは Character Sheet の \`identityMode=sheet\` を満たせない。実体画像の添付と生成結果の目視は別の確認を必要とする。
+- **自動検証対象**: `referenceAssets[].role=style` のみでは Character Sheet の `identityMode=sheet` を満たせない。実体画像の添付と生成結果の目視は別の確認を必要とする。
 
 ## R02 — 日本語RTLと単一吹き出し内の語順（EP002）
 
@@ -30,7 +30,7 @@
 - **EP002ラスト**: 直前に無言の手元コマ。最終コマは黒ベタ、離れた小さな橙の炎が **2つ**、「シュッ」が **2つ**、下部に短いSCP説明。選んだ素材や結果は描写しない。物語の追加コマも置かない。
 - **SCP-4999**: P002の3コマ目で解析依頼が明らかになる。患者の死後もベッドの遺体を消さない。最後のセリフは「とりあえず吸いに行くか」。
 - **受入**: コマ数やグリッドが合っていても、上記の意味アンカーが欠落・逆転・別ストーリー化したページは不合格。生成されたページを実際に観測してから判定する。
-- **自動検証対象**: 独立した image observation の不足は \`unverified\`、具体的な誤描写は \`repair\`。期待ネームを観測値として複写しない。
+- **自動検証対象**: 独立した image observation の不足は `unverified`、具体的な誤描写は `repair`。期待ネームを観測値として複写しない。
 
 ## R04 — 原典の事実と漫画上の脚色（EP001）
 
@@ -44,12 +44,12 @@
 
 **出典**: [EP002公開記録](../episodes/EP002_SCP-9908/PUBLICATION.md)、[画像管理](../episodes/EP002_SCP-9908/images/README.md)。
 
-- **現状**: pixiv掲載作品は確認済み。GitHubの \`images/drafts/P001-v01.png\`・\`P002-v01.png\` が掲載画像と一致するかは未確認。
-- **受入**: 実画像を照合してページ対応・視覚的一致を記録し、人間が採用したものだけを \`images/final/Pxxx.png\` へ移す。公開したという事実だけで候補をfinalへ昇格しない。
+- **現状**: pixiv掲載作品は確認済み。GitHubの `images/drafts/P001-v01.png`・`P002-v01.png` が掲載画像と一致するかは未確認。
+- **受入**: 実画像を照合してページ対応・視覚的一致を記録し、人間が採用したものだけを `images/final/Pxxx.png` へ移す。公開したという事実だけで候補をfinalへ昇格しない。
 - **注意**: pixiv画像は再符号化され得るため、バイナリSHA不一致だけで「別の絵」と断定しない。
 
 ## 実行・検証境界
 
-Studioは \`scripts/validate-production-regressions.mjs\` を \`npm run validate\` へ統合している。これが検証するのは **synthetic fixturesに対する現行コードの振る舞い** であって、今回GitHubに置いたEP画像が正しいことではない。
+Studioは `scripts/validate-production-regressions.mjs` を `npm run validate` へ統合している。これが検証するのは **synthetic fixturesに対する現行コードの振る舞い** であって、今回GitHubに置いたEP画像が正しいことではない。
 
-本番の \`Pxxx\` 採否には、現在の Studio \`manifest.json\` → Clean実画像とIdentity参照実画像の添付 → 一ページずつ生成 → 実画像のStructural/Narrative/Lettering/Identityレビュー → 人間の受入という工程が必要。特に、単なるURLやPNGのファイル名は画像モデルへの添付証拠にはならない。
+本番の `Pxxx` 採否には、現在の Studio `manifest.json` → Clean実画像とIdentity参照実画像の添付 → 一ページずつ生成 → 実画像のStructural/Narrative/Lettering/Identityレビュー → 人間の受入という工程が必要。特に、単なるURLやPNGのファイル名は画像モデルへの添付証拠にはならない。
