@@ -19,6 +19,7 @@
 - 👤 [固定キャラクター・登場人物一覧](characters/README.md) — [バット画像参照](characters/CHAR-001_BAT_REFERENCE.md) ／ **[セッター画像参照](characters/CHAR-002_SETTER_REFERENCE.md)** ／ **[峰画像参照](characters/CHAR-003_MINE_REFERENCE.md)**
 - 🧾 [原作クレジットとライセンス](CREDITS.md)
 - 📝 [新しいエピソードの雛形](episodes/TEMPLATE.md) ／ **[SCPと一服：作画・pixiv投稿テンプレート](series/PIXIV_PUBLICATION_TEMPLATE.md)**
+- 🧪 [実作品から抽出した制作回帰ケース](series/PRODUCTION_REGRESSION_CASES.md) — 参照画像、RTL文字、原作整合、生成画像の採否を検証
 
 ## 固定キャラクターの基準画像
 
