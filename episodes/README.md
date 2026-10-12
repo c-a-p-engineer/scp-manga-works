@@ -5,7 +5,7 @@
 | 話数 | 題材 | 仮タイトル | ネーム | 画像 | 公開 | 各話 |
 | --- | --- | --- | --- | --- | --- | --- |
 | EP001 | [SCP-403](https://scp-jp.wikidot.com/scp-403) | 新人歓迎（2P）／pixiv「SCP-403 段階的過熱ライター」 | 草稿あり（公開原稿と差分） | **完成2P・GitHub保存済み** | **[pixiv公開済み](https://www.pixiv.net/artworks/150764451)** | [制作Workspace](EP001_SCP-403/README.md) ／ [公開記録](EP001_SCP-403/PUBLICATION.md) |
-| EP002 | [SCP-9908](https://scp-jp.wikidot.com/scp-9908) | 喫煙。（2P）／pixiv「SCP-9908 喫煙。｜SCPと一服」 | 改訂ネーム確定 | **2P候補をGitHub保存・公開画像との同一性未確認** | **[pixiv公開済み](https://www.pixiv.net/artworks/150784921)**（2026-10-12公開） | [制作Workspace](EP002_SCP-9908/README.md) ／ [公開記録](EP002_SCP-9908/PUBLICATION.md) |
+| EP002 | [SCP-9908](https://scp-jp.wikidot.com/scp-9908) | 喫煙。（2P）／pixiv「SCP-9908 喫煙。｜SCPと一服」 | 改訂ネーム確定 | **2P候補をGitHub保存・公開画像との同一性未確認** | **[pixiv公開済み](https://www.pixiv.net/artworks/150784921)**（2026-10-12公開） | [制作Workspace](EP002_SCP-9908/README.md) ／ [公開記録](EP002_SCP-9908/PUBLICATION.md) ／ [幕間ネーム](EP002_SCP-9908/interlude/name/P001.md) |
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
