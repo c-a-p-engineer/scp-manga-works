@@ -18,7 +18,7 @@
 - 📖 [連載の構想・継続設定](series/README.md)
 - 👤 [固定キャラクター・登場人物一覧](characters/README.md) — [バット画像参照](characters/CHAR-001_BAT_REFERENCE.md) ／ **[セッター画像参照](characters/CHAR-002_SETTER_REFERENCE.md)** ／ **[峰画像参照](characters/CHAR-003_MINE_REFERENCE.md)**
 - 🧾 [原作クレジットとライセンス](CREDITS.md)
-- 📝 [新しいエピソードの雛形](episodes/TEMPLATE.md)
+- 📝 [新しいエピソードの雛形](episodes/TEMPLATE.md) ／ **[SCPと一服：作画・pixiv投稿テンプレート](series/PIXIV_PUBLICATION_TEMPLATE.md)**
 
 ## 固定キャラクターの基準画像
 
@@ -70,9 +70,13 @@
 
 ## 最初のエピソード
 
-**[EP001 — SCP-650「見てないと来る」（仮題）](episodes/EP001_SCP-650/README.md)**
+**[EP001 — SCP-403「新人歓迎」](episodes/EP001_SCP-403/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150764451)**。
 
-現在は文章ネーム草稿の段階。完成漫画画像はまだありません。
+公開時のpixiv題名は**「SCP-403 段階的過熱ライター」**。2ページの完成原稿は[画像管理ページ](episodes/EP001_SCP-403/images/README.md)と[公開記録](episodes/EP001_SCP-403/PUBLICATION.md)から確認できます。
+
+[「SCPと一服」第1話の2P作画とpixiv投稿を次回に生かすテンプレート](series/PIXIV_PUBLICATION_TEMPLATE.md)を作成しました。コマ割りや色を毎回固定するものではありません。
+
+以前のSCP-650案は[不採用の初期草稿](episodes/EP001_SCP-650/README.md)として残しています。
 
 ## ディレクトリ
 
@@ -87,14 +91,19 @@ scp-manga-works/
 ├── characters/CHAR-003_MINE_REFERENCE.md  # 峰の生成用参照
 ├── characters/assets/CHAR-003_MINE_reference-v1.png  # 峰の人物参照
 ├── characters/assets/CHAR-003_MINE_smoking-v1.png    # 峰の喫煙参照
+├── series/PIXIV_PUBLICATION_TEMPLATE.md             # 作画・pixiv公開の参考
 └── episodes/
     ├── README.md                # 話数一覧（正本）
     ├── TEMPLATE.md              # 新話の記録用雛形
-    └── EP001_SCP-650/
-        ├── README.md            # 第1話の状態
-        ├── CREDITS.md           # SCP-650 原作の出典
-        ├── name/P001.md         # 文章ネーム（草稿）
-        └── images/README.md     # 画像の保存規則
+    ├── EP001_SCP-403/
+    │   ├── README.md            # 公開済み第1話
+    │   ├── PUBLICATION.md       # 公開作品情報・学び
+    │   ├── CREDITS.md           # SCP-403 原作・出典
+    │   ├── name/P001.md/P002.md # 文章ネーム（草稿）
+    │   └── images/final/
+    │       ├── P001.png         # 公開原稿
+    │       └── P002.png         # 公開原稿
+    └── EP001_SCP-650/           # 不採用の旧草稿
 ```
 
 画像は生成した段階で、各話の `images/drafts/`（生成候補）または `images/final/`（採用済み完成版）に追加します。
