@@ -6,7 +6,9 @@
 
 | 漫画 | SCP原作 | 原作者 | 出典 | 漫画状態 |
 | --- | --- | --- | --- | --- |
-| [EP001](episodes/EP001_SCP-650/README.md) | SCP-650 | Dr Talson | [SCP Wiki](https://scp-wiki.wikidot.com/scp-650) | ネーム草稿・画像未生成 |
+| [EP001「新人歓迎」](episodes/EP001_SCP-403/README.md) | SCP-403 / Escalating Lighter | LitigousReport | [SCP Wiki](https://scp-wiki.wikidot.com/scp-403) ／ [日本語訳](https://scp-jp.wikidot.com/scp-403) | **[pixiv公開済み](https://www.pixiv.net/artworks/150764451)**・2P |
+
+初期案SCP-650（Dr Talson）は[不採用の草稿](episodes/EP001_SCP-650/README.md)として別途保存。現在の第1話はSCP-403です。
 
 各話ごとに `CREDITS.md` を作成し、原作記事名・作者名・一次URL・必要な追加素材の出典を記録します。原作者はSCP Wikiの記事末尾の引用表示などで確認します。
 
