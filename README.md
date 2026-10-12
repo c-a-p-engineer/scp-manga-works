@@ -68,11 +68,13 @@
 
 ※ **人物画像を同一性の第一参照、喫煙画像を状態差分の補助参照**とする。ユーザー指定以外の画像細部は未確定。
 
-## 最初のエピソード
+## 公開済みエピソード
 
 **[EP001 — SCP-403「新人歓迎」](episodes/EP001_SCP-403/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150764451)**。
 
 公開時のpixiv題名は**「SCP-403 段階的過熱ライター」**。2ページの完成原稿は[画像管理ページ](episodes/EP001_SCP-403/images/README.md)と[公開記録](episodes/EP001_SCP-403/PUBLICATION.md)から確認できます。
+
+**[EP002 — SCP-9908「喫煙。」](episodes/EP002_SCP-9908/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150784921)**。2ページ構成で、正式な第2話として2026-10-13に採番。[公開記録](episodes/EP002_SCP-9908/PUBLICATION.md)を参照。GitHubの候補PNGとpixiv掲載画像の同一性は未照合です。
 
 [「SCPと一服」第1話の2P作画とpixiv投稿を次回に生かすテンプレート](series/PIXIV_PUBLICATION_TEMPLATE.md)を作成しました。コマ割りや色を毎回固定するものではありません。
 
@@ -103,6 +105,12 @@ scp-manga-works/
     │   └── images/final/
     │       ├── P001.png         # 公開原稿
     │       └── P002.png         # 公開原稿
+    ├── EP002_SCP-9908/          # 公開済み第2話
+    │   ├── README.md            # 制作・状態
+    │   ├── PUBLICATION.md       # pixiv公開情報
+    │   ├── name/P001.md/P002.md # 改訂文章ネーム
+    │   └── images/drafts/       # 未採用候補PNG2枚
+    ├── EPXXXX_SCP-4999/         # 話数未確定の試作
     └── EP001_SCP-650/           # 不採用の旧草稿
 ```
 
@@ -110,7 +118,7 @@ scp-manga-works/
 
 ## 1話を追加するとき
 
-1. `EP002_SCP-xxx` などのフォルダを作り、`episodes/TEMPLATE.md` を参考に各話 `README.md` を置く。
+1. `EP###_SCP-xxx`（次の正式話数）などのフォルダを作り、`episodes/TEMPLATE.md` を参考に各話 `README.md` を置く。
 2. 文章ネームを `name/P001.md` に書く。1P目は `P001`、2P目は `P002`。
 3. 生成した候補PNGを `images/drafts/P001-v01.png` のように保存する。不要な試行画像はGitへ追加しない。
 4. レビュー済みの採用画像だけを `images/final/P001.png` に保存する。

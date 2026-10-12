@@ -4,12 +4,12 @@
 
 ## 保存先
 
-`episodes/EP002_SCP-xxx/`
+`episodes/EP###_SCP-xxx/`
 
 ## README.md に記載する項目
 
 ```markdown
-# EP002 — SCP-xxx「仮タイトル」
+# EP### — SCP-xxx「仮タイトル」
 
 **ステータス：企画中／画像未生成／未公開**
 

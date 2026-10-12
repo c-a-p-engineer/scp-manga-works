@@ -5,13 +5,14 @@
 | 話数 | 題材 | 仮タイトル | ネーム | 画像 | 公開 | 各話 |
 | --- | --- | --- | --- | --- | --- | --- |
 | EP001 | [SCP-403](https://scp-jp.wikidot.com/scp-403) | 新人歓迎（2P）／pixiv「SCP-403 段階的過熱ライター」 | 草稿あり（公開原稿と差分） | **完成2P・GitHub保存済み** | **[pixiv公開済み](https://www.pixiv.net/artworks/150764451)** | [制作Workspace](EP001_SCP-403/README.md) ／ [公開記録](EP001_SCP-403/PUBLICATION.md) |
+| EP002 | [SCP-9908](https://scp-jp.wikidot.com/scp-9908) | 喫煙。（2P）／pixiv「SCP-9908 喫煙。｜SCPと一服」 | 改訂ネーム確定 | **2P候補をGitHub保存・公開画像との同一性未確認** | **[pixiv公開済み](https://www.pixiv.net/artworks/150784921)**（2026-10-12公開） | [制作Workspace](EP002_SCP-9908/README.md) ／ [公開記録](EP002_SCP-9908/PUBLICATION.md) |
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
 ## 番号未確定の作品
 
 - **[EPXXXX / SCP-4999「私たちを見守るもの」](EPXXXX_SCP-4999/README.md)** — 2P文章ネーム保存済み（[P001](EPXXXX_SCP-4999/name/P001.md)・[P002](EPXXXX_SCP-4999/name/P002.md)）。画像は候補あり・未採用、未公開。**正式な話数は未決定**であり、EP002に割り当てない。配列確定後に正式採番する。
-- **[EPXXXX / SCP-9908「喫煙。」](EPXXXX_SCP-9908/README.md)** — 2P文章ネーム確定（[P001](EPXXXX_SCP-9908/name/P001.md)・[P002](EPXXXX_SCP-9908/name/P002.md)）。登場：七星・ゴールディのみ。2026-10-12作画レビュー反映済み。**P001・P002画像候補をGitHub保存済み（pixiv掲載画像との同一性未確認）**。**[pixiv公開済み](https://www.pixiv.net/artworks/150784921)**（2026-10-12報告、作品IDと表示題名はpixivメタデータ照合済み）。[公開記録](EPXXXX_SCP-9908/PUBLICATION.md)あり。**正式な話数は未決定**であり、EP002には割り当てない。
+
 
 ## ステータスの意味
 
