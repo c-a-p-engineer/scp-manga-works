@@ -9,7 +9,7 @@
 
 ## 幕間（本編の話数には含めない）
 
-- [SCP-9908 幕間「翌朝」](EP002_SCP-9908/interlude/README.md) — EP002の翌朝を描く1P後日談。文章ネーム保存済み。[pixiv公開準備稿](EP002_SCP-9908/interlude/PIXIV_DRAFT.md)あり。**画像生成候補あり（ChatGPT出力／GitHub未登録・正式採用未了）、pixiv未公開**。公開後にURLと実際のタグ・画像を照合して更新する。
+- **[SCP-9908 幕間「翌朝」](https://www.pixiv.net/artworks/150797153)** — EP002の翌朝を描く**1ページのpixiv公開作品**（2026-10-13 09:53 JST）。[実投稿を正本とする公開記録](EP002_SCP-9908/interlude/PUBLICATION.md)／[制作ネーム](EP002_SCP-9908/interlude/name/P001.md)。画像バイナリのGitHub正式版取り込みは未実施。**EP003には採番しない。**
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 

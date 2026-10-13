@@ -22,16 +22,16 @@
 
 2026-10-12にルートへアップロードされた改訂画像2枚を**元バイナリのGit Blob SHAを保持したまま** `images/drafts/P001-v01.png`・`P002-v01.png` へ整理。**pixivで使用した画像との同一性は未確認**。採用済み原稿だけを将来 `images/final/` に置く。画像の検証状態は [画像管理](images/README.md) が正本。
 
-## 幕間「翌朝」（新規・未作画）
+## 幕間「翌朝」（pixiv公開済み）
 
-EP002「喫煙。」の**翌朝を描く1ページの幕間**を企画。**本編EP002の2ページには含めない**。本文画像の公開や正式な別話数の採番は行わない。
+EP002「喫煙。」の**翌朝を描く1ページの幕間**を**2026-10-13にpixivへ公開済み**。**本編EP002の2ページには含めず、EP003にも採番しない**。実投稿のタイトル・説明文・タグは[幕間の公開記録](interlude/PUBLICATION.md)を正本として管理する。
 
 - [幕間の制作方針](interlude/README.md)
 - [幕間 P001 文章ネーム](interlude/name/P001.md)
 - **冒頭の表示題字**：「SCPと一服」／**「SCP-9908 幕間」**（指定どおりに正確に表記）
 - 主演：ゴールディ、七星のみ。翌朝の記憶喪失と奇行、ゴールディの真っ赤な顔のアップに重ねた七星の「俺の権限で記録ミスにしておく」を最後の台詞とする。
 - **画像生成候補あり（ChatGPT出力、2026-10-13）。GitHubへ画像本体は未保存・正式受入も未実施。** 本編の画像フォルダと混在させず、正式採用までは `interlude/images/drafts/` に保管し、受入後のみ `interlude/images/final/` に保存。
-- [幕間pixiv公開準備稿（タイトル・本文・タグ・X告知）](interlude/PIXIV_DRAFT.md)／[投稿前の確認事項](interlude/PRE_PUBLISH_CHECKLIST.md)
+- **[幕間 pixiv掲載作品](https://www.pixiv.net/artworks/150797153)** ／ **[公開記録（実投稿の説明文全文・実タグ）](interlude/PUBLICATION.md)** ／ [投稿前の準備稿（履歴）](interlude/PIXIV_DRAFT.md) ／ [事前レビュー履歴](interlude/PRE_PUBLISH_CHECKLIST.md)
 
 ## 演出の固定事項
 

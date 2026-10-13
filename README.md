@@ -77,6 +77,8 @@
 
 **[EP002 — SCP-9908「喫煙。」](episodes/EP002_SCP-9908/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150784921)**。2ページ構成で、正式な第2話として2026-10-13に採番。[公開記録](episodes/EP002_SCP-9908/PUBLICATION.md)を参照。GitHubの候補PNGとpixiv掲載画像の同一性は未照合です。
 
+**[EP002 幕間 — SCP-9908「翌朝」](https://www.pixiv.net/artworks/150797153)** — **[pixiv公開済み（2026-10-13）](https://www.pixiv.net/artworks/150797153)**。1ページの後日談、シリーズの第3掲載作品。[pixiv実投稿の公開記録](episodes/EP002_SCP-9908/interlude/PUBLICATION.md)には実際の説明文全文とタグを保存。
+
 [「SCPと一服」第1話の2P作画とpixiv投稿を次回に生かすテンプレート](series/PIXIV_PUBLICATION_TEMPLATE.md)を作成しました。コマ割りや色を毎回固定するものではありません。
 
 以前のSCP-650案は[不採用の初期草稿](episodes/EP001_SCP-650/README.md)として残しています。

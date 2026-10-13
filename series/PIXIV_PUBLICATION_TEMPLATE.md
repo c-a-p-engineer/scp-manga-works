@@ -46,6 +46,14 @@ SCP-4999 の試作 P001・P002 で採用を決めた**塗りと陰影の方向�
 5. 採用したPxxx.pngのみ、各話の `images/final/` に保存。未採用は `images/drafts/` に隔離。
 6. 公開してから `PUBLICATION.md`、`episodes/README.md`、`CREDITS.md` を更新。未検証の公開設定やタグを事実として記録しない。
 
+## 公開後の正本・投稿情報の優先順位（2026-10-13 運用方針）
+
+**pixiv公開後は、作品の公開タイトル・説明文全文・タグ・公開日時・公開シリーズ・画像枚数・AI申告設定はpixiv実投稿をSource of Truthとする。** GitHubのPIXIV_DRAFT等の投稿前提案は履歴であり、pixivと食い違った場合に下書きを正本へ昇格させない。ユーザーの公開報告や候補PNGの存在だけで、未取得の投稿本文・タグ・画像の一致を推測しない。
+
+公開作品ページのメタデータだけでなく、取得可能ならpixivの実投稿データ（作品ID、title、description、tags、createDate、pageCount、seriesNavData等）を確認し、**取得日と情報源、未確認項目を区別して**各話のPUBLICATION.mdに保存する。説明文は意図的な表現・誤字と思われる箇所も**無断で校正せず**、実投稿をそのまま記録する。掲載内容が後日変更されたらpixivを再照合して更新する。
+
+事例：[SCP-9908 幕間「翌朝」公開記録](../episodes/EP002_SCP-9908/interlude/PUBLICATION.md)。
+
 ## pixiv投稿の記録テンプレート
 
 ```md
