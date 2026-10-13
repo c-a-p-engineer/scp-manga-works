@@ -16,7 +16,7 @@
 ## 番号未確定の作品
 
 - **[EPXXXX / SCP-4999「私たちを見守るもの」](EPXXXX_SCP-4999/README.md)** — 2P文章ネーム保存済み（[P001](EPXXXX_SCP-4999/name/P001.md)・[P002](EPXXXX_SCP-4999/name/P002.md)）。画像は候補あり・未採用、未公開。**正式な話数は未決定**であり、EP002に割り当てない。配列確定後に正式採番する。
-- **[EPXXXX / SCP-710-JP-J「財団神拳」](EPXXXX_SCP-710-JP-J/README.md)** — 本編2P＋幕間1Pの文章ネーム草稿保存済み（[P001](EPXXXX_SCP-710-JP-J/name/P001.md)・[P002](EPXXXX_SCP-710-JP-J/name/P002.md)・[幕間](EPXXXX_SCP-710-JP-J/interlude/name/P001.md)）。画像未生成・未公開。**正式話数は未決定**。
+- **[EPXXXX / SCP-710-JP-J「財団神拳」](EPXXXX_SCP-710-JP-J/README.md)** — **原作照合済み6技版**の本編2P＋幕間1P・文章ネーム草稿 v2（[P001](EPXXXX_SCP-710-JP-J/name/P001.md)・[P002](EPXXXX_SCP-710-JP-J/name/P002.md)・[幕間](EPXXXX_SCP-710-JP-J/interlude/name/P001.md)）。敵の名称は原作に合わせ**伝承者**。画像は旧草稿に基づく会話内試作のみ・GitHub未保存。未公開。**正式話数は未決定**。
 
 
 ## ステータスの意味
