@@ -6,17 +6,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | EP001 | [SCP-403](https://scp-jp.wikidot.com/scp-403) | 新人歓迎（2P）／pixiv「SCP-403 段階的過熱ライター」 | 草稿あり（公開原稿と差分） | **完成2P・GitHub保存済み** | **[pixiv公開済み](https://www.pixiv.net/artworks/150764451)** | [制作Workspace](EP001_SCP-403/README.md) ／ [公開記録](EP001_SCP-403/PUBLICATION.md) |
 | EP002 | [SCP-9908](https://scp-jp.wikidot.com/scp-9908) | 喫煙。（2P）／pixiv「SCP-9908 喫煙。｜SCPと一服」 | 改訂ネーム確定 | **2P候補をGitHub保存・公開画像との同一性未確認** | **[pixiv公開済み](https://www.pixiv.net/artworks/150784921)**（2026-10-12公開） | [制作Workspace](EP002_SCP-9908/README.md) ／ [公開記録](EP002_SCP-9908/PUBLICATION.md) ／ [幕間ネーム](EP002_SCP-9908/interlude/name/P001.md) |
+| **EP003** | [SCP-710-JP-J](https://scp-jp.wikidot.com/scp-710-jp-j) | 財団神拳（2P）／pixiv「SCP-710-JP-J 財団神拳｜SCPと一服」 | P001=v5／P002=v6、公開画像が正本 | **完成2P・GitHub保存済み**（pixiv原画像のバイナリ未照合） | **[pixiv公開済み](https://www.pixiv.net/artworks/150809472)**（2026-10-13 19:11 JST） | [EP003](EP003_SCP-710-JP-J/README.md) ／ [公開記録](EP003_SCP-710-JP-J/PUBLICATION.md) ／ [P001](EP003_SCP-710-JP-J/images/final/P001.png)・[P002](EP003_SCP-710-JP-J/images/final/P002.png) |
 
 ## 幕間（本編の話数には含めない）
 
 - **[SCP-9908 幕間「翌朝」](https://www.pixiv.net/artworks/150797153)** — EP002の翌朝を描く**1ページのpixiv公開作品**（2026-10-13 09:53 JST）。[実投稿を正本とする公開記録](EP002_SCP-9908/interlude/PUBLICATION.md)／[制作ネーム](EP002_SCP-9908/interlude/name/P001.md)。[原寸完成原稿P001](EP002_SCP-9908/interlude/images/final/P001.png)をユーザーのルート直下アップロードからGit Blob SHA保持で整理。[画像管理](EP002_SCP-9908/interlude/images/README.md)。pixiv実掲載とのバイナリ照合は未確認。**EP003には採番しない。**
+
+- **[EP003 / SCP-710-JP-J 幕間「現実だ」](EP003_SCP-710-JP-J/interlude/name/P001.md)** — **文章ネーム草稿のみ・未公開**。EP003本編のpixiv投稿2ページには含まれない。
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
 ## 番号未確定の作品
 
 - **[EPXXXX / SCP-4999「私たちを見守るもの」](EPXXXX_SCP-4999/README.md)** — 2P文章ネーム保存済み（[P001](EPXXXX_SCP-4999/name/P001.md)・[P002](EPXXXX_SCP-4999/name/P002.md)）。画像は候補あり・未採用、未公開。**正式な話数は未決定**であり、EP002に割り当てない。配列確定後に正式採番する。
-- **[EPXXXX / SCP-710-JP-J「財団神拳」](EPXXXX_SCP-710-JP-J/README.md)** — **本編P001＝4コマ（v5）／P002＝3コマ（v6）＋幕間1P**の文章ネーム草稿（[P001](EPXXXX_SCP-710-JP-J/name/P001.md)・[P002](EPXXXX_SCP-710-JP-J/name/P002.md)・[幕間](EPXXXX_SCP-710-JP-J/interlude/name/P001.md)）。P002は技2大ゴマ＋俯瞰の**主任 VS 伝承者**。爆風キャンセリングの前に主任「下がって」→初見のゴールディ「爆風を殴った！？」。最終コマは**伝承者→主任→伝承者→主任**の2段RTL吹き出し、ゴールディは主任の背後で慌てる。画像は会話内試作のみ・GitHub未保存／未公開。**正式話数未決定**。
 
 
 ## ステータスの意味
