@@ -9,10 +9,10 @@
 ## 二次創作漫画
 - 連載：SCPと一服
 - 漫画：c-a-p-engineer
-- 構成：**正式EP003**、本編P001／P002の2P。幕間は別の未公開草稿。制作ネームはP001 v5、P002 v6。
+- 構成：**正式EP003**、本編P001／P002の2P。幕間は[別作品として公開済み](interlude/PUBLICATION.md)（2026-10-14）。本編制作ネームはP001 v5、P002 v6。
 - 状態：**pixiv公開済み（2026-10-13 19:11 JST）**。ユーザー採用の本編2PNGを[images/final/](images/README.md)へ保存済み（pixiv配信画像とのバイナリ同一性は未確認）。
 - 作品URL：https://www.pixiv.net/artworks/150809472
-- [実投稿の公開記録](PUBLICATION.md)
+- [本編の実投稿公開記録](PUBLICATION.md)／[幕間の実投稿公開記録](interlude/PUBLICATION.md)
 
 ## 一次原作と照合した6技（原作の名称・意味を維持）
 

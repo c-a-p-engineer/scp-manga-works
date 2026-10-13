@@ -77,7 +77,7 @@
 
 **[EP002 — SCP-9908「喫煙。」](episodes/EP002_SCP-9908/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150784921)**。2ページ構成で、正式な第2話として2026-10-13に採番。[公開記録](episodes/EP002_SCP-9908/PUBLICATION.md)を参照。GitHubの候補PNGとpixiv掲載画像の同一性は未照合です。
 
-**[EP003 — SCP-710-JP-J「財団神拳」](episodes/EP003_SCP-710-JP-J/README.md)** — **[pixiv公開済み（2026-10-13 19:11 JST）](https://www.pixiv.net/artworks/150809472)**。本編2ページの[完成原稿P001](episodes/EP003_SCP-710-JP-J/images/final/P001.png)・[P002](episodes/EP003_SCP-710-JP-J/images/final/P002.png)をGitHubに整理し、[公開記録](episodes/EP003_SCP-710-JP-J/PUBLICATION.md)も保存。シリーズ上は第4掲載作品ですが本編の正式番号は**EP003**。幕間「現実だ」は未公開草稿。
+**[EP003 — SCP-710-JP-J「財団神拳」](episodes/EP003_SCP-710-JP-J/README.md)** — **[pixiv公開済み（2026-10-13 19:11 JST）](https://www.pixiv.net/artworks/150809472)**。本編2ページの[完成原稿P001](episodes/EP003_SCP-710-JP-J/images/final/P001.png)・[P002](episodes/EP003_SCP-710-JP-J/images/final/P002.png)をGitHubに整理し、[公開記録](episodes/EP003_SCP-710-JP-J/PUBLICATION.md)も保存。シリーズ上は第4掲載作品ですが本編の正式番号は**EP003**。[幕間「現実だ」](episodes/EP003_SCP-710-JP-J/interlude/README.md)は[2026-10-14 pixiv公開済み](https://www.pixiv.net/artworks/150832515)。[完成原稿](episodes/EP003_SCP-710-JP-J/interlude/images/final/P001.png)・[公開記録](episodes/EP003_SCP-710-JP-J/interlude/PUBLICATION.md)を別枠で保存。
 
 **[EP002 幕間 — SCP-9908「翌朝」](https://www.pixiv.net/artworks/150797153)** — **[pixiv公開済み（2026-10-13）](https://www.pixiv.net/artworks/150797153)**。1ページの後日談、シリーズの第3掲載作品。[pixiv実投稿の公開記録](episodes/EP002_SCP-9908/interlude/PUBLICATION.md)には実際の説明文全文とタグを保存。[完成原稿PNG](episodes/EP002_SCP-9908/interlude/images/final/P001.png)と[文章ネーム](episodes/EP002_SCP-9908/interlude/name/P001.md)も同じWorkspaceに整理済み。
 

@@ -12,7 +12,7 @@
 
 - **[SCP-9908 幕間「翌朝」](https://www.pixiv.net/artworks/150797153)** — EP002の翌朝を描く**1ページのpixiv公開作品**（2026-10-13 09:53 JST）。[実投稿を正本とする公開記録](EP002_SCP-9908/interlude/PUBLICATION.md)／[制作ネーム](EP002_SCP-9908/interlude/name/P001.md)。[原寸完成原稿P001](EP002_SCP-9908/interlude/images/final/P001.png)をユーザーのルート直下アップロードからGit Blob SHA保持で整理。[画像管理](EP002_SCP-9908/interlude/images/README.md)。pixiv実掲載とのバイナリ照合は未確認。**EP003には採番しない。**
 
-- **[EP003 / SCP-710-JP-J 幕間「現実だ」](EP003_SCP-710-JP-J/interlude/name/P001.md)** — **文章ネーム草稿のみ・未公開**。EP003本編のpixiv投稿2ページには含まれない。
+- **[EP003 / SCP-710-JP-J 幕間「現実だ」](https://www.pixiv.net/artworks/150832515)** — **2026-10-14 08:27 JST公開**。1ページ（1055×1491 px）、実登録タグ `漫画`、シリーズ第5掲載作品。[完成原稿](EP003_SCP-710-JP-J/interlude/images/final/P001.png)／[実投稿記録](EP003_SCP-710-JP-J/interlude/PUBLICATION.md)／[ネームv7](EP003_SCP-710-JP-J/interlude/name/P001.md)。EP003本編2ページには含めず、EP004へ採番しない。
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 

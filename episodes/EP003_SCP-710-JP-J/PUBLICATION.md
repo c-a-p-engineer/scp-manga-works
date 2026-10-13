@@ -58,7 +58,7 @@ https://creativecommons.org/licenses/by-sa/3.0/
 - ユーザーが採用・公開した2ページを完成原稿として保存し、過去の生成候補は保存しない。
 - **重要**：pixivで配信されるPNGとGitHub内の元PNGの完全なバイナリ／ピクセル一致は**未検証**。pixiv公開とユーザーアップロードの申告・見た目を受入根拠とする。
 - [P001ネーム](name/P001.md)・[P002ネーム](name/P002.md)は制作意図の履歴であり、**公開画像／投稿本文を実際と異なる理想稿で上書きしない**。
-- [幕間「現実だ」](interlude/name/P001.md)は**文章ネーム草稿のみ／未公開**。今回のpixiv2ページには含まれない。
+- [幕間「現実だ」](interlude/PUBLICATION.md)は**2026-10-14 08:27 JSTに[別pixiv作品](https://www.pixiv.net/artworks/150832515)として公開済み**。本編の2ページには含まれない。
 
 ## 出典
 - 原作：[SCP-710-JP-J「財団神拳」](https://scp-jp.wikidot.com/scp-710-jp-j) — **Kwana**
