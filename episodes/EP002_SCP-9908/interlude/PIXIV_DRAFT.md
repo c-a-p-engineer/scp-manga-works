@@ -1,6 +1,6 @@
 # SCP-9908 幕間「翌朝」— pixiv投稿前の準備稿（履歴）
 
-> **履歴資料・現在の正本ではない。** 2026-10-13に[作品がpixiv公開](https://www.pixiv.net/artworks/150797153)された。**正本は[PUBLICATION.md](PUBLICATION.md)に保存したpixiv実投稿の全文・タグ・公開設定**。この下書きとの差は意図的に残し、pixiv実投稿の文章に合わせた改ざんはしない。画像は同日ChatGPT上で生成候補あり、GitHub正式版は未登録。
+> **履歴資料・現在の正本ではない。** 2026-10-13に[作品がpixiv公開](https://www.pixiv.net/artworks/150797153)された。**正本は[PUBLICATION.md](PUBLICATION.md)に保存したpixiv実投稿の全文・タグ・公開設定**。この下書きとの差は意図的に残し、pixiv実投稿の文章に合わせた改ざんはしない。画像は同日ChatGPT上で生成候補あり、当時はGitHub正式版が未登録だった。**2026-10-13に[完成原稿P001](images/final/P001.png)として整理済み**。
 
 ## 推奨タイトル
 

@@ -73,8 +73,10 @@ https://creativecommons.org/licenses/by-sa/3.0/
 ## 公開画像の確認範囲
 
 - pixivは**1ページ・1055×1491 px**を返却。ページデータの元画像URLは`https://i.pximg.net/img-original/img/2026/10/13/09/53/29/150797153_p0.png`。
-- 生成時の原寸候補も1055×1491 pxだったため**寸法は一致**するが、pixiv掲載バイナリのピクセル同一性、補正有無およびGitHub未登録画像の採用可否は**未照合**。
-- 現時点で本幕間のPNG実体はGitHubの`interlude/images/final/`へ**登録していない**。外部pixiv公開済みという事実と、GitHubでの完成原稿受入は区別する。
+- **2026-10-13保存**：GitHubルート直下にユーザーがアップロードした `file_00000000e6f88206adb2fbc0db785764.png`（2,824,252 bytes、Git Blob SHA `e9072a7344bd228cdb17f8c50614f5de39a5c00b`）を、**[images/final/P001.png](images/final/P001.png)**へ元のGit Blob SHAを保持して移動した。ルートの旧ファイルを新しいGitツリーから削除。
+- この画像は、ChatGPTで生成した**肩幅調整済み**の `SCP-9908_interlude_P001.png` と**Git Blob SHAが完全一致**（2,824,252 bytes、1055×1491 px）。今回再圧縮・ピクセル変更を行っていない。
+- ユーザーの公開・再アップロードを受入根拠とし、GitHub上は**完成原稿P001**として管理する。[画像管理](images/README.md)。
+- ただし**pixivから配信される実PNGとのバイナリ・ピクセル同一性は未検証**。pixivメタデータの寸法とページ数は一致。全吹き出しの読順や人物参照の視覚QAも実施済みとは扱わない。
 - [事前レビューと留意点](PRE_PUBLISH_CHECKLIST.md)は過去の事前QA記録。掲載完了を理由に未確認チェックを自動完了にはしない。
 
 ## 公開前下書きとの差異（意図的に維持）
@@ -94,4 +96,4 @@ https://creativecommons.org/licenses/by-sa/3.0/
 
 **すべて実際のpixiv説明文に記載されていることを確認。**
 
-[幕間README](README.md) ／ [文章ネーム](name/P001.md) ／ [公開前の履歴稿](PIXIV_DRAFT.md) ／ [エピソード一覧](../../README.md)
+[幕間README](README.md) ／ [完成原稿PNG](images/final/P001.png) ／ [画像管理](images/README.md) ／ [文章ネーム](name/P001.md) ／ [公開前の履歴稿](PIXIV_DRAFT.md) ／ [エピソード一覧](../../README.md)

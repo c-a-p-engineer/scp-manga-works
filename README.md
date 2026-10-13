@@ -77,7 +77,7 @@
 
 **[EP002 — SCP-9908「喫煙。」](episodes/EP002_SCP-9908/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150784921)**。2ページ構成で、正式な第2話として2026-10-13に採番。[公開記録](episodes/EP002_SCP-9908/PUBLICATION.md)を参照。GitHubの候補PNGとpixiv掲載画像の同一性は未照合です。
 
-**[EP002 幕間 — SCP-9908「翌朝」](https://www.pixiv.net/artworks/150797153)** — **[pixiv公開済み（2026-10-13）](https://www.pixiv.net/artworks/150797153)**。1ページの後日談、シリーズの第3掲載作品。[pixiv実投稿の公開記録](episodes/EP002_SCP-9908/interlude/PUBLICATION.md)には実際の説明文全文とタグを保存。
+**[EP002 幕間 — SCP-9908「翌朝」](https://www.pixiv.net/artworks/150797153)** — **[pixiv公開済み（2026-10-13）](https://www.pixiv.net/artworks/150797153)**。1ページの後日談、シリーズの第3掲載作品。[pixiv実投稿の公開記録](episodes/EP002_SCP-9908/interlude/PUBLICATION.md)には実際の説明文全文とタグを保存。[完成原稿PNG](episodes/EP002_SCP-9908/interlude/images/final/P001.png)と[文章ネーム](episodes/EP002_SCP-9908/interlude/name/P001.md)も同じWorkspaceに整理済み。
 
 [「SCPと一服」第1話の2P作画とpixiv投稿を次回に生かすテンプレート](series/PIXIV_PUBLICATION_TEMPLATE.md)を作成しました。コマ割りや色を毎回固定するものではありません。
 
@@ -112,7 +112,12 @@ scp-manga-works/
     │   ├── README.md            # 制作・状態
     │   ├── PUBLICATION.md       # pixiv公開情報
     │   ├── name/P001.md/P002.md # 改訂文章ネーム
-    │   └── images/drafts/       # 未採用候補PNG2枚
+    │   ├── images/drafts/       # 本編の未採用候補PNG2枚
+    │   └── interlude/           # SCP-9908幕間「翌朝」
+    │       ├── name/P001.md     # 幕間の制作ネーム
+    │       ├── PUBLICATION.md   # pixivの実投稿（正本）
+    │       ├── images/README.md # 画像の来歴
+    │       └── images/final/P001.png # 幕間の完成原稿
     ├── EPXXXX_SCP-4999/         # 話数未確定の試作
     └── EP001_SCP-650/           # 不採用の旧草稿
 ```

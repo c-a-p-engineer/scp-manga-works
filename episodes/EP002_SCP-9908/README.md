@@ -30,7 +30,7 @@ EP002「喫煙。」の**翌朝を描く1ページの幕間**を**2026-10-13にp
 - [幕間 P001 文章ネーム](interlude/name/P001.md)
 - **冒頭の表示題字**：「SCPと一服」／**「SCP-9908 幕間」**（指定どおりに正確に表記）
 - 主演：ゴールディ、七星のみ。翌朝の記憶喪失と奇行、ゴールディの真っ赤な顔のアップに重ねた七星の「俺の権限で記録ミスにしておく」を最後の台詞とする。
-- **画像生成候補あり（ChatGPT出力、2026-10-13）。GitHubへ画像本体は未保存・正式受入も未実施。** 本編の画像フォルダと混在させず、正式採用までは `interlude/images/drafts/` に保管し、受入後のみ `interlude/images/final/` に保存。
+- **[幕間公開原稿P001](interlude/images/final/P001.png)をGitHubへ保存済み**。ユーザーがルートへアップロードした原寸PNGを元のGit Blob SHAを保持して移動し、本編の2ページ原稿とは分離。[幕間画像管理](interlude/images/README.md)。pixiv配信画像とのバイナリ同一性は独立に未検証。
 - **[幕間 pixiv掲載作品](https://www.pixiv.net/artworks/150797153)** ／ **[公開記録（実投稿の説明文全文・実タグ）](interlude/PUBLICATION.md)** ／ [投稿前の準備稿（履歴）](interlude/PIXIV_DRAFT.md) ／ [事前レビュー履歴](interlude/PRE_PUBLISH_CHECKLIST.md)
 
 ## 演出の固定事項

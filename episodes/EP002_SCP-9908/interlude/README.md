@@ -1,6 +1,6 @@
 # SCP-9908 幕間「翌朝」— EP002後日談
 
-**状態：SCP-9908 幕間「翌朝」｜SCPと一服 — [pixiv公開済み](https://www.pixiv.net/artworks/150797153)（2026-10-13 09:53 JST）。説明文・実タグ等はpixivが正本。画像バイナリのGitHub正式版登録・同一性照合は未実施。**
+**状態：SCP-9908 幕間「翌朝」｜SCPと一服 — [pixiv公開済み](https://www.pixiv.net/artworks/150797153)（2026-10-13 09:53 JST）／[完成原稿P001をGitHubへ保存済み](images/final/P001.png)。説明文・実タグ等はpixivが正本。pixiv配信画像とのバイナリ同一性は未確認。**
 
 - **シリーズ題字**：`SCPと一服`
 - **画面内サブタイトル（指定の文字列そのまま）**：**`SCP-9908 幕間`**
@@ -13,7 +13,9 @@
 
 ## ネーム
 
-[P001：翌朝](name/P001.md)
+- **[完成原稿PNG・P001](images/final/P001.png)** — 1055×1491 px、アップロード時のバイナリ保持
+- [画像管理と移動履歴](images/README.md)
+- [P001：文章ネーム「翌朝」](name/P001.md)
 
 - **[pixiv実投稿の公開記録・説明文全文](PUBLICATION.md)** ／ **[pixiv公開ページ](https://www.pixiv.net/artworks/150797153)**
 - [pixiv投稿準備稿（公開前の履歴・実投稿の正本ではない）](PIXIV_DRAFT.md)
@@ -32,8 +34,8 @@
 ## 制作状態
 
 - 文章ネームはユーザーとの対話で調整済み。サブタイトル「SCP-9908 幕間」と、最終コマの台詞・表情・読順を反映して保存。
-- 2026-10-13：1ページの画像候補をChatGPT上で生成し、ゴールディの肩幅を狭く華奢に調整した版を作成。同日**[pixivで公開](https://www.pixiv.net/artworks/150797153)**。pixivの掲載寸法は1055×1491 px・1枚。**画像本体のGitHub登録、Blueprintコンパイル、pixiv掲載画像とChatGPT候補のピクセル照合、GitHub正式原稿の受入は未実施**。
+- 2026-10-13：ゴールディの肩幅を狭く華奢に調整した1ページ原寸画像をChatGPT上で生成。同日**[pixiv公開済み](https://www.pixiv.net/artworks/150797153)**。ユーザーがGitHubルートへアップロードしたPNGは生成画像と**サイズ・Git Blob SHAが完全一致**。これを[images/final/P001.png](images/final/P001.png)へ無劣化で移動済み。**Blueprintコンパイルは未実施。pixivに配信された画像とGitHub版のバイナリ一致は未検証**。
 - 生成候補原寸：1055×1491 px（PNG）。別途2倍の2110×2982 px拡大候補もある。2倍版は補間拡大であり、画像内容や文字を修正したものではない。
 - [事前レビューのチェックリスト](PRE_PUBLISH_CHECKLIST.md)には当時の未解決項目を履歴として残す。公開後に確認できた事実と混同しない。
 - **公開タイトル・説明文・タグ・日時は[PUBLICATION.md](PUBLICATION.md)のpixiv実投稿データを正本とする。**
-- 画像の採用が決まるまでは本編の `images/final/` とは分離。
+- ユーザーによる公開と原寸PNGの再アップロードを保存・受入根拠とし、幕間は独立した `images/final/` で管理。本編の `images/final/` は変更しない。
