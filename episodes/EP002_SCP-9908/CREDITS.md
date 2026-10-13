@@ -11,7 +11,7 @@
 - **原作ライセンス**：[Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## 漫画
-- **作品**：SCP財団 ヤニカス研究室 ― SCPと一服 ―
+- **作品**：SCPと一服（現行正式タイトル）
 - **今回の題材／漫画用表示名**：SCP-9908「喫煙。」
 - **制作**：c-a-p-engineer
 - **制作状況**：改訂文章ネームと2P画像候補をGitHub保存済み。**2026-10-12にpixiv公開をマスターが報告**。**[公開作品](https://www.pixiv.net/artworks/150784921)**の作品ID・題名はpixivページメタデータで照合済み。本文全文／画像・タグは未検証。[公開記録](PUBLICATION.md)。
