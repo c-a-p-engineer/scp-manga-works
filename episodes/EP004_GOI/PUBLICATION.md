@@ -4,22 +4,28 @@
 
 | 項目 | pixiv実投稿を確認した値 |
 | --- | --- |
-| 作品URL | [https://www.pixiv.net/artworks/150836581](https://www.pixiv.net/artworks/150836581) |
-| pixiv作品ID | `150836581` |
+| 作品URL | [https://www.pixiv.net/artworks/150837706](https://www.pixiv.net/artworks/150837706) |
+| pixiv作品ID | `150837706` |
 | 公開タイトル | **財団と要注意団体｜SCPと一服** |
-| 公開日時 | **2026-10-14 12:25 JST**（API `createDate=2026-10-14T03:25:00+00:00`。一覧には秒付きで `2026-10-14T12:25:22+09:00` の表示もあり） |
+| 公開日時 | **2026-10-14 13:21 JST**（API `createDate=2026-10-14T04:21:00+00:00`） |
 | 作者表示 | **こぴぺたん**（userId `50553719`） |
 | 投稿種別 | 漫画（`illustType=1`） |
 | ページ数・寸法 | **4ページ、各1055×1491 px**（GitHub実画像4枚でも寸法確認） |
 | 登録タグ（実値） | **漫画、SCP** |
-| シリーズ | **undefined**（seriesId `undefined`） |
+| シリーズ | **SCPと一服**（seriesId `362543`、pixiv側の掲載順は6） |
 | 本プロジェクト内の話数 | **EP004**。pixivでのシリーズ掲載順と独立に管理する |
 | AI作品分類 | pixiv API原値 **`aiType=2`**（UI表示名称は推測しない） |
 | 非公式・権利 | 非公式二次創作、CC BY-SA 3.0と原作／設定参照へのリンクが実本文に含まれる |
 
+## URL変更の履歴
+
+- 以前の掲載ID：[`150836581`](https://www.pixiv.net/artworks/150837706)（2026-10-14 12:25 JST、当時の取得・記録）。ユーザーから2026-10-14に新URLの通知を受領したため、**現在の案内先は150837706**とする。
+- 両IDが同時公開されたか、旧IDが削除済みかは未確定。「リダイレクトした」とは断定しない。
+- 新IDは同一タイトル・4P・同じ説明文／タグ・同じシリーズ。**画像バイナリが新URLのものとGitHubの4枚で一致するかは未検証**。旧来のGitHub完成画像は無断差し替えしない。
+
 取得元：
-- `https://www.pixiv.net/ajax/illust/150836581`（2026-10-14に取得）
-- `https://www.pixiv.net/artworks/150836581`（pixiv公開URL）
+- `https://www.pixiv.net/ajax/illust/150837706`（2026-10-14の新投稿を取得）
+- `https://www.pixiv.net/artworks/150837706`（pixiv公開URL）
 
 ## pixivに実際に掲載されている説明文（正本）
 
