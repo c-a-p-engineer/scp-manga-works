@@ -1,0 +1,92 @@
+# SCPと一服 EP004「財団と要注意団体」— pixiv公開記録
+
+**公開済み／2026-10-14 pixiv実投稿を照合。** 本ファイルは公開事実と掲載文の正本です。`PIXIV_DRAFT.md` は公開前の履歴であり、実投稿を上書きしません。
+
+| 項目 | pixiv実投稿を確認した値 |
+| --- | --- |
+| 作品URL | [https://www.pixiv.net/artworks/150836581](https://www.pixiv.net/artworks/150836581) |
+| pixiv作品ID | `150836581` |
+| 公開タイトル | **財団と要注意団体｜SCPと一服** |
+| 公開日時 | **2026-10-14 12:25 JST**（API `createDate=2026-10-14T03:25:00+00:00`。一覧には秒付きで `2026-10-14T12:25:22+09:00` の表示もあり） |
+| 作者表示 | **こぴぺたん**（userId `50553719`） |
+| 投稿種別 | 漫画（`illustType=1`） |
+| ページ数・寸法 | **4ページ、各1055×1491 px**（GitHub実画像4枚でも寸法確認） |
+| 登録タグ（実値） | **漫画、SCP** |
+| シリーズ | **undefined**（seriesId `undefined`） |
+| 本プロジェクト内の話数 | **EP004**。pixivでのシリーズ掲載順と独立に管理する |
+| AI作品分類 | pixiv API原値 **`aiType=2`**（UI表示名称は推測しない） |
+| 非公式・権利 | 非公式二次創作、CC BY-SA 3.0と原作／設定参照へのリンクが実本文に含まれる |
+
+取得元：
+- `https://www.pixiv.net/ajax/illust/150836581`（2026-10-14に取得）
+- `https://www.pixiv.net/artworks/150836581`（pixiv公開URL）
+
+## pixivに実際に掲載されている説明文（正本）
+
+以下は`illustComment`のHTML改行を復元し、pixivの外部リンク中継を元の表示URLに戻したもの。その他の文言は校正しない。
+
+```text
+一服のお供に、今日の財団事情をひとつ。
+
+「カオス・インサージェンシーってなんですか？」
+
+喫煙所で始まった新人の素朴な質問から、財団を取り巻く「要注意団体」の話へ。
+
+世界オカルト連合、蛇の手、マーシャル・カーター＆ダーク。そして日本にも、異常と関わる組織がこんなに……。
+
+財団の理念は覚えているのに、研修資料はどうやら後回しのようです。
+
+『SCPと一服』第4話、全4ページの非公式二次創作漫画です。
+
+※画像生成AIを使用しています。SCP財団およびSCP Wikiの公式作品ではありません。
+
+【原案・設定参照／クレジット】
+
+「要注意団体」
+著作権者：Sirens
+https://scp-jp.wikidot.com/groups-of-interest
+
+「要注意団体-JP」
+著者：SCP財団
+https://scp-jp.wikidot.com/groups-of-interest-jp
+
+「SCP-682」（背景演出の着想）
+著者：Dr Gears、Epic Phail Spy
+https://scp-wiki.wikidot.com/scp-682
+日本語訳：https://scp-jp.wikidot.com/scp-682
+
+漫画：c-a-p-engineer
+
+ライセンス：CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
+```
+
+実登録タグは **`漫画`**、**`SCP`** の2件だけ。公開前の `PIXIV_DRAFT.md` 内の候補タグは実登録タグとして扱わない。
+
+## 完成原稿とGitHubの収録状況
+
+| 順序 | GitHub完成画像 | Blob SHA |
+| --- | --- | --- |
+| P001 | [P001](images/final/P001.png) | `0421151a2bfb871f7f8990a4fd723c10c610b81f` |
+| P002 | [P002](images/final/P002.png) | `f5e28b685db7cade91a60376420c75435bdcd08e` |
+| P003 | [P003](images/final/P003.png) | `5bb6eb0455a5cee397a8884ebaaacce5f0de847c` |
+| P004 | [P004](images/final/P004.png) | `5853af8ab7b734dfe453689b79efa7415e58463a` |
+
+- ユーザーがpixiv公開後、該当完成PNG4枚をGitHubルートにアップロードしたと報告。実際にmasterで4枚を確認し、画像のSHAを変えずに `images/final/` へ移動。
+- **GitHubの移動元と移動後ファイルのバイナリ同一性はGit Blob SHAで確認済み**。pixivで配信されるオリジナル画像とのバイナリ／ピクセル完全一致は**未検証**。
+- 過去の候補画像はGitHubへ追加していない。ネームは制作時の意図で、掲載原稿と異なる場合は**公開済み画像とこの実投稿記録を優先**。
+- [画像管理・差分・既知誤字](images/README.md) を参照。P004で「酩酊街」が「酪町街」に見える描画文字の不一致があり、公開済み原稿は無断変更しない。
+
+## 主要な制作上の判断
+- EP004は特定SCPの説明ではなく、**カオス・インサージェンシー、世界／日本の要注意団体の解説回**。
+- P001のシリーズタイトルは維持。P004先頭の不要なタイトルはマスター指定で削除し、資料見出しを「日本の要注意団体」にした。
+- P002冒頭は2つの吹き出しをともに七星へ割り当てる。
+- P003は「財団にも例外はある」の背後にSCP-682の想起イメージ。
+- P004は右下から左下へ進み「今読め。」→「えー。」で締める。
+
+## 参照
+- [EP004 README](README.md)
+- [EP004 画像一覧](images/README.md)
+- [EP004 出典とライセンス](CREDITS.md)
+- [pixiv公開前草稿](PIXIV_DRAFT.md)
+- [本編一覧](../README.md)
