@@ -7,7 +7,7 @@
 - 登場：七星（セッター）、ゴールディ（バット）。
 - 読み順：日本式右上→左下／台詞は縦書き基本。
 - 演出：キャラクターの掛け合いと、団体ロゴ・短い解説を示す作中資料コマを組み合わせる。
-- 公開先：**[pixiv作品 150836581](https://www.pixiv.net/artworks/150836581)**（2026-10-14 12:25 JST公開）。公開タイトル「財団と要注意団体｜SCPと一服」。
+- 公開先：**[pixiv作品 150836581](https://www.pixiv.net/artworks/150837706)**（2026-10-14 13:21 JST公開）。公開タイトル「財団と要注意団体｜SCPと一服」。
 - 作品紹介・公開日時・タグ・クレジットの正本は[PUBLICATION.md](PUBLICATION.md)。完成PNGは[画像管理](images/README.md)。
 
 ## 文章ネーム（制作時の改訂履歴）
@@ -38,7 +38,7 @@
 - [x] ChatGPT上でP001〜P004を生成し、公開原稿4枚を画像のSHAのまま [images/final/](images/final/) に保存
 - [x] ルート直下の4PNGをローカルに存在する生成原本とGit Blob SHAで一致確認、ページ順を特定して移動
 - [ ] 公開後の残課題：P004資料の「酩酊街」表記誤り（画像内で「酪町街」に見える）やロゴの権利確認。無断差し替えはしない
-- [x] [pixivへ4P公開済み](https://www.pixiv.net/artworks/150836581)。公開実データを[PUBLICATION.md](PUBLICATION.md)に記録、画像4枚もGitHub保存済み
+- [x] [pixivへ4P公開済み](https://www.pixiv.net/artworks/150837706)。公開実データを[PUBLICATION.md](PUBLICATION.md)に記録、画像4枚もGitHub保存済み
 
 ## 公開記録・画像と草稿
 - **[PUBLICATION.md — pixiv実投稿の正本](PUBLICATION.md)**。タイトル・全文説明・実登録タグ・日時・シリーズ・AI原値を照合。
