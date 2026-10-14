@@ -16,7 +16,7 @@
 - **[EP003 / SCP-710-JP-J 幕間「現実だ」](https://www.pixiv.net/artworks/150832515)** — **2026-10-14 08:27 JST公開**。1ページ（1055×1491 px）、実登録タグ `漫画`、シリーズ第5掲載作品。[完成原稿](EP003_SCP-710-JP-J/interlude/images/final/P001.png)／[実投稿記録](EP003_SCP-710-JP-J/interlude/PUBLICATION.md)／[ネームv7](EP003_SCP-710-JP-J/interlude/name/P001.md)。EP003本編2ページには含めず、EP004へ採番しない。
 
 
-- **[EP004 幕間「スカウト」](EP004_GOI/interlude/README.md)** — サメ殴りセンター（SPC-1057）と財団神拳を扱う**1P文章ネーム v4保存済み**。画像未生成・未公開。[P001ネーム](EP004_GOI/interlude/name/P001.md)／[クレジット](EP004_GOI/interlude/CREDITS.md)。EP004本編4Pとは別管理し、EP005へ採番しない。
+- **[EP004 幕間「スカウト」](https://www.pixiv.net/artworks/150850704)** — **2026-10-14 pixiv公開済み（ユーザー報告）**。サメ殴りセンター／財団神拳の1ページ。[完成原稿P001](EP004_GOI/interlude/images/final/P001.png)／[公開記録](EP004_GOI/interlude/PUBLICATION.md)／[制作Workspace](EP004_GOI/interlude/README.md)／[制作ネームv4](EP004_GOI/interlude/name/P001.md)／[公開画像との差分](EP004_GOI/interlude/name/P001_PUBLISHED.md)。**EP004本編とは別作品、EP005には採番しない**。
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 

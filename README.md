@@ -81,6 +81,8 @@
 
 **[EP004 — 「財団と要注意団体」](episodes/EP004_GOI/README.md)** — **[pixiv公開済み（2026-10-14 13:21 JST）](https://www.pixiv.net/artworks/150837706)**。要注意団体の紹介をテーマとする本編全4ページ。ルート直下にアップロードされた4枚を[完成原稿P001〜P004](episodes/EP004_GOI/images/README.md)へBlob SHAそのままで整理済み。[pixiv実投稿と帰属の公開記録](episodes/EP004_GOI/PUBLICATION.md)を参照。資料内の酩酊街の文字表記などの[制作上の既知問題](episodes/EP004_GOI/images/README.md)も記録。
 
+**[EP004 幕間 — サメ殴りセンター「スカウト」](https://www.pixiv.net/artworks/150850704)** — **2026-10-14 pixiv公開済み（ユーザー報告）**。1P完成原稿を[幕間Workspace](episodes/EP004_GOI/interlude/README.md)へ整理。[完成PNG](episodes/EP004_GOI/interlude/images/final/P001.png)／[公開記録](episodes/EP004_GOI/interlude/PUBLICATION.md)。本編EP004の4Pには加算しない。
+
 **[EP002 幕間 — SCP-9908「翌朝」](https://www.pixiv.net/artworks/150797153)** — **[pixiv公開済み（2026-10-13）](https://www.pixiv.net/artworks/150797153)**。1ページの後日談、シリーズの第3掲載作品。[pixiv実投稿の公開記録](episodes/EP002_SCP-9908/interlude/PUBLICATION.md)には実際の説明文全文とタグを保存。[完成原稿PNG](episodes/EP002_SCP-9908/interlude/images/final/P001.png)と[文章ネーム](episodes/EP002_SCP-9908/interlude/name/P001.md)も同じWorkspaceに整理済み。
 
 [「SCPと一服」第1話の2P作画とpixiv投稿を次回に生かすテンプレート](series/PIXIV_PUBLICATION_TEMPLATE.md)を作成しました。コマ割りや色を毎回固定するものではありません。

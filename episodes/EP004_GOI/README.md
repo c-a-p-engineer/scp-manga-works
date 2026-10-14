@@ -18,10 +18,11 @@
 - [P003：財団の理念](name/P003.md) — 6コマ。資料を読んでいない新人、理念と例外の説明。
 - [P004：日本の要注意団体](name/P004.md) — 4コマ・v4。①冒頭の二人の会話を統合→②日本4団体の資料→③ゴールディ1吹き出しのフリ→④「今読め。」「えー。」のオチを独立。**右下→左下**。手の帰属・タブレット保持も明記。
 
-## EP004 幕間（本編とは別の1P草稿）
+## EP004 幕間（本編とは別の1P・pixiv公開済み）
 
-- **[幕間「スカウト」制作Workspace](interlude/README.md)** — サメ殴りセンター／SPC-1057を題材にした**1ページの文章ネーム v4**（保存済み／未作画／未公開）。
-- [P001文章ネーム](interlude/name/P001.md) ／ [原作クレジット](interlude/CREDITS.md)。
+- **[幕間「スカウト」制作Workspace](interlude/README.md)** — サメ殴りセンターを題材にした**1ページのpixiv公開作品**（[作品150850704](https://www.pixiv.net/artworks/150850704)、2026-10-14ユーザー報告）。
+- [完成原稿P001](interlude/images/final/P001.png) ／ [画像管理](interlude/images/README.md) ／ [公開記録](interlude/PUBLICATION.md)。
+- [制作ネームv4](interlude/name/P001.md) ／ [公開画像との差分](interlude/name/P001_PUBLISHED.md) ／ [原作クレジット](interlude/CREDITS.md)。
 - 財団神拳の固有振動数を用いた観測助言、SPCエージェントから七星への勧誘、喫煙環境を理由とした辞退は幕間独自の脚色。**本編4Pは公開済みのまま変更しない。**
 
 ## 人間の演出指定・保持する条件
