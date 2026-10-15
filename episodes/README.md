@@ -22,7 +22,7 @@
 
 ## 番号未確定の作品
 
-- **[EPXXXX / SCP-024-JP「東弊カラオケ」](EPXXXX_SCP-024-JP/README.md)** — **4P文章ネーム第5稿・直近画像へ同期済み**（[P001](EPXXXX_SCP-024-JP/name/P001.md)・[P002](EPXXXX_SCP-024-JP/name/P002.md)・[P003](EPXXXX_SCP-024-JP/name/P003.md)・[P004](EPXXXX_SCP-024-JP/name/P004.md)）。ChatGPT上でP001/P002はOK寄り、P003/P004は短縮台詞版を再生成済み・最終採用確認待ち。画像はGitHub未保存、[pixiv投稿文草稿](EPXXXX_SCP-024-JP/PIXIV_DRAFT.md)あり・未公開。**正式話数は未決定**。
+- **[EPXXXX / SCP-024-JP「東弊カラオケ」](EPXXXX_SCP-024-JP/README.md)** — **pixiv公開済み（2026-10-15 12:14 JST）**：[作品ページ](https://www.pixiv.net/artworks/150872458)／[実投稿の記録](EPXXXX_SCP-024-JP/PUBLICATION.md)。全4Pの[完成原稿](EPXXXX_SCP-024-JP/images/README.md)をルート直下からBlob SHAを変えずに移動済み（[P001](EPXXXX_SCP-024-JP/images/final/P001.png)・[P002](EPXXXX_SCP-024-JP/images/final/P002.png)・[P003](EPXXXX_SCP-024-JP/images/final/P003.png)・[P004](EPXXXX_SCP-024-JP/images/final/P004.png)）。文章ネーム第5稿保存済み。**正式話数未決定のためEPXXXXを維持**。pixivとの画像バイナリ照合は未実施。
 
 - **[EPXXXX / SCP-4999「私たちを見守るもの」](EPXXXX_SCP-4999/README.md)** — 2P文章ネーム保存済み（[P001](EPXXXX_SCP-4999/name/P001.md)・[P002](EPXXXX_SCP-4999/name/P002.md)）。画像は候補あり・未採用、未公開。**正式な話数は未決定**であり、EP002に割り当てない。配列確定後に正式採番する。
 
