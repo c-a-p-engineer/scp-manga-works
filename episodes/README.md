@@ -22,6 +22,8 @@
 
 ## 番号未確定の作品
 
+- **[EPXXXX / SCP-024-JP「東弊カラオケ」](EPXXXX_SCP-024-JP/README.md)** — **4P文章ネーム第3稿・承認済み**（[P001](EPXXXX_SCP-024-JP/name/P001.md)・[P002](EPXXXX_SCP-024-JP/name/P002.md)・[P003](EPXXXX_SCP-024-JP/name/P003.md)・[P004](EPXXXX_SCP-024-JP/name/P004.md)）。ChatGPT上で画像生成候補あり、GitHub未保存・未採用、未公開。**正式話数は未決定**。
+
 - **[EPXXXX / SCP-4999「私たちを見守るもの」](EPXXXX_SCP-4999/README.md)** — 2P文章ネーム保存済み（[P001](EPXXXX_SCP-4999/name/P001.md)・[P002](EPXXXX_SCP-4999/name/P002.md)）。画像は候補あり・未採用、未公開。**正式な話数は未決定**であり、EP002に割り当てない。配列確定後に正式採番する。
 
 
