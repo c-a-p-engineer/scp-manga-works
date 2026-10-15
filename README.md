@@ -150,7 +150,9 @@ scp-manga-works/
 
 ## 制作ルール
 
-ネーム、Blueprint、画像生成は [Manga Blueprint Studio](https://github.com/c-a-p-engineer/manga-blueprint-studio) の**現在の**正規手順を使用します。Studioのコードや練習用fixtureはこのRepositoryに置きません。日本語ページ漫画は原則右→左、縦書きです。
+**標準工程は「SCP原典・人物参照確認 → 文章ネーム → 1ページずつ画像生成 → 実画像レビュー → 必要箇所の修正 → 採用・公開」です。** 綴理コアの現在の漫画制作Skillを用い、日本語ページ漫画は原則右→左・縦書きとします。吹き出し本体と尻尾の話者、人物の左右位置、煙草や手指などの連続性、情報量を完成画像で確認します。
+
+[Manga Blueprint Studio](https://github.com/c-a-p-engineer/manga-blueprint-studio) のBlueprint作成・コンパイルは**通常工程から除外**しました。厳密なレイアウト固定や再現性を必要とする作品、または明示指定がある場合のみ任意で使用します。以前のBlueprintや画像・ネームは削除せず履歴として保持します。Studioのコードや練習用fixtureはこのRepositoryに置きません。
 
 ### 画像容量
 
