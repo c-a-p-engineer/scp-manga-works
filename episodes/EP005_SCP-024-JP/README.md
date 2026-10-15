@@ -51,9 +51,9 @@
 
 ## 幕間「実験記録」（独立した1P・未公開）
 
-- [幕間の制作Workspace](interlude/README.md) ／ [P001文章ネーム修正版v1](interlude/name/P001.md)。**本編4Pは変更せず**、後日談として別管理。
+- [幕間の制作Workspace](interlude/README.md) ／ [公開画像の読解ネーム](interlude/name/P001_PUBLISHED.md) ／ [制作時v1](interlude/name/P001.md)。**本編4Pは変更せず**、後日談として別管理。
 - 1円・1,000円・エベレスト・職員10名の過去の実験記録を紹介し、七星の地の文「（俺は喫煙可にしてる）」で締める。
-- 文章ネームはマスターのレビュー待ち。画像候補は未採用、Blueprint未コンパイル、未公開。
+- **[pixiv公開済み（2026-10-15 15:29 JST）](https://www.pixiv.net/artworks/150875995)**。採用PNGを[幕間 images/final/P001.png](interlude/images/final/P001.png)へSHA維持で整理済み。[公開画像ネーム](interlude/name/P001_PUBLISHED.md)／[pixiv実登録内容](interlude/PUBLICATION.md)を正本として記録。Blueprintは未コンパイル。
 
 ## 現在の残件
 
