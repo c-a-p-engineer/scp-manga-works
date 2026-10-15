@@ -7,8 +7,8 @@ This repository is the **workspace for an unofficial, serialized SCP manga**. It
 1. Read this `AGENTS.md` on the current `master` before making changes.
 2. Read `README.md` and `episodes/README.md` for current scope and the canonical episode list.
 3. If changing a specific episode, read that episode's `README.md` and its existing name/images.
-4. If writing/compiling manga Blueprints or generating comic images, check the **current** `master` of `c-a-p-engineer/manga-blueprint-studio`, beginning with its `AGENTS.md` and `.agents/skills/manga-blueprint/SKILL.md`, then their required sources of truth.
-5. Do not rely on old cached versions of Studio rules.
+4. For ordinary manga production, use the current `c-a-p-engineer/tsuzuri-core` manga skills (`comics-creation`, `comics-direction`, and relevant lettering/medium skills). The default is text name → one-page image generation → visual review → local repair. Read the applicable current core instructions rather than treating older chat descriptions as authoritative.
+5. Only when the author explicitly chooses Manga Blueprint Studio, or the current work demonstrably requires a structured/compiled layout, check that Studio repository's current `master`, beginning with its `AGENTS.md` and `.agents/skills/manga-blueprint/SKILL.md`, then their required sources. Studio is not a compulsory dependency for normal manga creation.
 
 ## Ownership
 - `series/`: continuing series premise, chronology and continuity.
@@ -16,6 +16,16 @@ This repository is the **workspace for an unofficial, serialized SCP manga**. It
 - `episodes/README.md`: **single human-maintained episode list and status index**.
 - `episodes/EP###_SCP-<number>/`: episode-specific work, including `name/` (text names) and `images/drafts/` / `images/final/`.
 - Generated outputs belong in this repository, **not** Studio fixtures/examples or the generic `manga-blueprint-works` repository, unless the user explicitly directs otherwise.
+
+## Default manga production workflow
+
+1. Confirm the featured SCP's primary article, attribution and the work's fixed character reference images.
+2. Create/revise the **text manga name** (`name/P001.md`, etc.): narrative beats, Japanese RTL physical panel order, dialogue/narration owner, key poses, characters' positions and prop-state continuity.
+3. Generate **one final-page candidate at a time** with the applicable manga-generation skills, using actual character image references where required. Do not require Blueprint compilation, Clean/Annotated, manifests or Contact Sheets before image generation.
+4. Review the **actual rendered page**, not just the script: RTL reading order, dialogue-to-speaker/balloon/tail mapping, Japanese text, character identity, hands/fingers, cigarette/prop transitions, mob/background density and SCP factual consistency.
+5. Repair only affected panels, lettering or text-name beats where feasible; keep accepted parts and confirm the revised page again.
+6. Store meaningful draft candidates separately, put only reviewed adopted pages in `images/final/`, then update episode index, publication record and credits as appropriate.
+7. Use a compiled Blueprint package **optionally** for exact geometry/reproducibility or a specifically requested workflow. Existing Blueprint artifacts remain historical or optional production assets, not a completion prerequisite.
 
 ## Episode policy
 - Each episode is independently identifiable by `EP001`, `EP002`, etc. The associated SCP number is separate from the episode number.
@@ -38,4 +48,4 @@ SCP-based derivative manga must carry the source article title, original author,
 Do not create new workflows or introduce new uses without prior approval. Existing validation workflows may be used within the user's standing permission, but artwork-generation workflows have their own stricter Studio/Works production boundaries.
 
 ## Completion
-For documentation/index updates: verify all links and recorded states against the committed `master`. For manga: additionally follow the Studio handoff, visual review, and per-page acceptance contracts.
+For documentation/index updates: verify all links and recorded states against the committed `master`. For manga: additionally follow the current text-name-first workflow above, character references, actual-image review, and per-page acceptance. Follow Studio-specific handoff and validation only if the work explicitly uses a compiled Blueprint.
