@@ -1,9 +1,9 @@
 # pixiv投稿準備稿 — SCP-024-JP「東弊カラオケ」
 
-> **2026-10-15 公開済みにつき本書は投稿前草稿の履歴。** 実際のpixivタイトル・説明・タグ・日時は[PUBLICATION.md](PUBLICATION.md)が正本。実際の登録タグは「漫画」「SCP」の2件、公開URLは https://www.pixiv.net/artworks/150872458 。
+> **2026-10-15 公開済み・正式話数EP005に採番済み。本書は投稿前草稿の履歴。** 実際のpixivタイトル・説明・タグ・日時は[PUBLICATION.md](PUBLICATION.md)が正本。実際の登録タグは「漫画」「SCP」の2件、公開URLは https://www.pixiv.net/artworks/150872458 。
 
 **状態：投稿案・未公開。pixiv実投稿ではない。**
-**話数：未採番（EPXXXX）。pixiv題名に話数を記載しない。**
+**草稿作成時の話数：未採番（EPXXXX）。現在の正式話数はEP005。pixiv題名には話数を記載していない。**
 **原作確認：2026-10-15、https://scp-jp.wikidot.com/scp-024-jp、著者ページ https://scp-jp.wikidot.com/author:ak1-yorunaga**
 **画像：ChatGPT内で全4P生成。P001/P002はマスターがOK寄りと判断、P003/P004は短縮台詞版生成済み・最終採用未確認。GitHubの最終画像保存とpixiv投稿は未実施。**
 
@@ -50,7 +50,7 @@ SCP-024-JP「東弊カラオケ」を漫画化。全4P。
 
 - 実際に投稿したタイトル／説明／タグ／ページ数／AI申告とURLをpixivから確認して`PUBLICATION.md`に記録する。上の候補稿を実投稿の正本扱いしない。
 - マスターが画像を確定したら`images/final/P001.png`～`P004.png`へ保管する。それまでは未採用候補として区別する。
-- 正式話数はマスターが確定するまで`EPXXXX`を維持する。
+- 草稿作成時の方針：マスターが確定するまで `EPXXXX` を維持。2026-10-15の指示により `EP005` に正式採番済み。
 
 ## 原作と脚色
 

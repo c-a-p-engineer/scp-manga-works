@@ -71,8 +71,6 @@
 
 ## 公開済みエピソード
 
-**[SCP-024-JP「東弊カラオケ」](episodes/EPXXXX_SCP-024-JP/README.md)** — **[pixiv公開済み（2026-10-15）](https://www.pixiv.net/artworks/150872458)**。4P完成原稿を[images/final](episodes/EPXXXX_SCP-024-JP/images/README.md)へSHA維持で整理済み。[pixiv実投稿情報](episodes/EPXXXX_SCP-024-JP/PUBLICATION.md)を保存。**正式話数は未採番（EPXXXX）**。
-
 
 **[EP001 — SCP-403「新人歓迎」](episodes/EP001_SCP-403/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150764451)**。
 
@@ -83,6 +81,8 @@
 **[EP003 — SCP-710-JP-J「財団神拳」](episodes/EP003_SCP-710-JP-J/README.md)** — **[pixiv公開済み（2026-10-13 19:11 JST）](https://www.pixiv.net/artworks/150809472)**。本編2ページの[完成原稿P001](episodes/EP003_SCP-710-JP-J/images/final/P001.png)・[P002](episodes/EP003_SCP-710-JP-J/images/final/P002.png)をGitHubに整理し、[公開記録](episodes/EP003_SCP-710-JP-J/PUBLICATION.md)も保存。シリーズ上は第4掲載作品ですが本編の正式番号は**EP003**。[幕間「現実だ」](episodes/EP003_SCP-710-JP-J/interlude/README.md)は[2026-10-14 pixiv公開済み](https://www.pixiv.net/artworks/150832515)。[完成原稿](episodes/EP003_SCP-710-JP-J/interlude/images/final/P001.png)・[公開記録](episodes/EP003_SCP-710-JP-J/interlude/PUBLICATION.md)を別枠で保存。
 
 **[EP004 — 「財団と要注意団体」](episodes/EP004_GOI/README.md)** — **[pixiv公開済み（2026-10-14 13:21 JST）](https://www.pixiv.net/artworks/150837706)**。要注意団体の紹介をテーマとする本編全4ページ。ルート直下にアップロードされた4枚を[完成原稿P001〜P004](episodes/EP004_GOI/images/README.md)へBlob SHAそのままで整理済み。[pixiv実投稿と帰属の公開記録](episodes/EP004_GOI/PUBLICATION.md)を参照。資料内の酩酊街の文字表記などの[制作上の既知問題](episodes/EP004_GOI/images/README.md)も記録。
+
+**[EP005 — SCP-024-JP「東弊カラオケ」](episodes/EP005_SCP-024-JP/README.md)** — **[pixiv公開済み（2026-10-15）](https://www.pixiv.net/artworks/150872458)**。4P完成原稿を[images/final](episodes/EP005_SCP-024-JP/images/README.md)へSHA維持で整理済み。[pixiv実投稿情報](episodes/EP005_SCP-024-JP/PUBLICATION.md)を保存。**正式話数 EP005（2026-10-15採番）**。
 
 **[EP004 幕間 — サメ殴りセンター「スカウト」](https://www.pixiv.net/artworks/150850704)** — **2026-10-14 pixiv公開済み（ユーザー報告）**。1P完成原稿を[幕間Workspace](episodes/EP004_GOI/interlude/README.md)へ整理。[完成PNG](episodes/EP004_GOI/interlude/images/final/P001.png)／[公開記録](episodes/EP004_GOI/interlude/PUBLICATION.md)。本編EP004の4Pには加算しない。
 

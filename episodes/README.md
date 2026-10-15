@@ -8,6 +8,7 @@
 | EP002 | [SCP-9908](https://scp-jp.wikidot.com/scp-9908) | 喫煙。（2P）／pixiv「SCP-9908 喫煙。｜SCPと一服」 | 改訂ネーム確定 | **2P候補をGitHub保存・公開画像との同一性未確認** | **[pixiv公開済み](https://www.pixiv.net/artworks/150784921)**（2026-10-12公開） | [制作Workspace](EP002_SCP-9908/README.md) ／ [公開記録](EP002_SCP-9908/PUBLICATION.md) ／ [幕間ネーム](EP002_SCP-9908/interlude/name/P001.md) |
 | **EP003** | [SCP-710-JP-J](https://scp-jp.wikidot.com/scp-710-jp-j) | 財団神拳（2P）／pixiv「SCP-710-JP-J 財団神拳｜SCPと一服」 | P001=v5／P002=v6、公開画像が正本 | **完成2P・GitHub保存済み**（pixiv原画像のバイナリ未照合） | **[pixiv公開済み](https://www.pixiv.net/artworks/150809472)**（2026-10-13 19:11 JST） | [EP003](EP003_SCP-710-JP-J/README.md) ／ [公開記録](EP003_SCP-710-JP-J/PUBLICATION.md) ／ [P001](EP003_SCP-710-JP-J/images/final/P001.png)・[P002](EP003_SCP-710-JP-J/images/final/P002.png) |
 | **EP004** | [財団と要注意団体](https://scp-jp.wikidot.com/groups-of-interest) ／ [要注意団体-JP](https://scp-jp.wikidot.com/groups-of-interest-jp) | **財団と要注意団体（4P）**／pixiv「財団と要注意団体｜SCPと一服」 | ネーム保存済み（P001/P003=v3、P002/P004=v4）。**公開画像が正本** | **[完成4P・GitHub整理済み](EP004_GOI/images/README.md)**（ユーザーアップロードPNGをSHA同一のまま移動） | **[pixiv公開済み](https://www.pixiv.net/artworks/150837706)**（2026-10-14 13:21 JST） | [EP004](EP004_GOI/README.md) ／ [公開記録](EP004_GOI/PUBLICATION.md) ／ [P001](EP004_GOI/images/final/P001.png)・[P002](EP004_GOI/images/final/P002.png)・[P003](EP004_GOI/images/final/P003.png)・[P004](EP004_GOI/images/final/P004.png) |
+| **EP005** | [SCP-024-JP](https://scp-jp.wikidot.com/scp-024-jp) | **東弊カラオケ（4P）**／pixiv「SCP-024-JP 東弊カラオケ｜SCPと一服」 | 文章ネーム第5稿保存済み（公開原稿が正本） | **[完成4P・GitHub整理済み](EP005_SCP-024-JP/images/README.md)**（PNGのBlob SHAを保持） | **[pixiv公開済み](https://www.pixiv.net/artworks/150872458)**（2026-10-15 12:14 JST） | [制作Workspace](EP005_SCP-024-JP/README.md) ／ [公開記録](EP005_SCP-024-JP/PUBLICATION.md) ／ [P001](EP005_SCP-024-JP/images/final/P001.png)・[P002](EP005_SCP-024-JP/images/final/P002.png)・[P003](EP005_SCP-024-JP/images/final/P003.png)・[P004](EP005_SCP-024-JP/images/final/P004.png) |
 
 ## 幕間（本編の話数には含めない）
 
@@ -22,7 +23,6 @@
 
 ## 番号未確定の作品
 
-- **[EPXXXX / SCP-024-JP「東弊カラオケ」](EPXXXX_SCP-024-JP/README.md)** — **pixiv公開済み（2026-10-15 12:14 JST）**：[作品ページ](https://www.pixiv.net/artworks/150872458)／[実投稿の記録](EPXXXX_SCP-024-JP/PUBLICATION.md)。全4Pの[完成原稿](EPXXXX_SCP-024-JP/images/README.md)をルート直下からBlob SHAを変えずに移動済み（[P001](EPXXXX_SCP-024-JP/images/final/P001.png)・[P002](EPXXXX_SCP-024-JP/images/final/P002.png)・[P003](EPXXXX_SCP-024-JP/images/final/P003.png)・[P004](EPXXXX_SCP-024-JP/images/final/P004.png)）。文章ネーム第5稿保存済み。**正式話数未決定のためEPXXXXを維持**。pixivとの画像バイナリ照合は未実施。
 
 - **[EPXXXX / SCP-4999「私たちを見守るもの」](EPXXXX_SCP-4999/README.md)** — 2P文章ネーム保存済み（[P001](EPXXXX_SCP-4999/name/P001.md)・[P002](EPXXXX_SCP-4999/name/P002.md)）。画像は候補あり・未採用、未公開。**正式な話数は未決定**であり、EP002に割り当てない。配列確定後に正式採番する。
 
