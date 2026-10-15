@@ -71,6 +71,9 @@
 
 ## 公開済みエピソード
 
+**[SCP-024-JP「東弊カラオケ」](episodes/EPXXXX_SCP-024-JP/README.md)** — **[pixiv公開済み（2026-10-15）](https://www.pixiv.net/artworks/150872458)**。4P完成原稿を[images/final](episodes/EPXXXX_SCP-024-JP/images/README.md)へSHA維持で整理済み。[pixiv実投稿情報](episodes/EPXXXX_SCP-024-JP/PUBLICATION.md)を保存。**正式話数は未採番（EPXXXX）**。
+
+
 **[EP001 — SCP-403「新人歓迎」](episodes/EP001_SCP-403/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150764451)**。
 
 公開時のpixiv題名は**「SCP-403 段階的過熱ライター」**。2ページの完成原稿は[画像管理ページ](episodes/EP001_SCP-403/images/README.md)と[公開記録](episodes/EP001_SCP-403/PUBLICATION.md)から確認できます。
