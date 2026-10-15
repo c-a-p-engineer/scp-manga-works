@@ -19,6 +19,8 @@
 
 - **[EP004 幕間「スカウト」](https://www.pixiv.net/artworks/150850704)** — **2026-10-14 pixiv公開済み（ユーザー報告）**。サメ殴りセンター／財団神拳の1ページ。[完成原稿P001](EP004_GOI/interlude/images/final/P001.png)／[公開記録](EP004_GOI/interlude/PUBLICATION.md)／[制作Workspace](EP004_GOI/interlude/README.md)／[制作ネームv4](EP004_GOI/interlude/name/P001.md)／[公開画像との差分](EP004_GOI/interlude/name/P001_PUBLISHED.md)。**EP004本編とは別作品、EP005には採番しない**。
 
+- **EP005 / SCP-024-JP 幕間「実験記録」** — **1ページの文章ネーム修正版v1を保存・レビュー待ち、画像未採用・未公開**。1円・1,000円・エベレスト・ドリンクバー付き10名利用の過去の実験記録と、喫煙可オチ。[制作Workspace](EP005_SCP-024-JP/interlude/README.md) ／ [P001ネーム](EP005_SCP-024-JP/interlude/name/P001.md)。**本編EP005の4Pには含めずEP006にも採番しない。**
+
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
 ## 番号未確定の作品
