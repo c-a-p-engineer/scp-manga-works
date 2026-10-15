@@ -6,8 +6,9 @@
 - **原作URL**：https://scp-jp.wikidot.com/scp-024-jp
 - **漫画シリーズ**：SCPと一服
 - **漫画側の表示題名**：東弊カラオケ（原作記事の液晶表示等を短縮した漫画用の表記）
-- **制作状態**：文章ネーム第5稿へ更新、画像生成候補あり・最終未採用、未公開
-- **pixiv投稿案**：[PIXIV_DRAFT.md](PIXIV_DRAFT.md)（未投稿）
+- **制作状態**：文章ネーム第5稿／GitHub完成原稿4P保存済み／pixiv公開済み（2026-10-15）
+- **pixiv実投稿**：[SCP-024-JP 東弊カラオケ｜SCPと一服](https://www.pixiv.net/artworks/150872458)／[公開記録](PUBLICATION.md)。説明欄に原作者・原作URL・CC BY-SA 3.0を含むことを実投稿データで確認済み。
+- **投稿前草稿（履歴）**：[PIXIV_DRAFT.md](PIXIV_DRAFT.md)
 - **ライセンス**：Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 - **ライセンスURL**：https://creativecommons.org/licenses/by-sa/3.0/
 
