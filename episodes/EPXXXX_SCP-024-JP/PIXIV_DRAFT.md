@@ -1,5 +1,7 @@
 # pixiv投稿準備稿 — SCP-024-JP「東弊カラオケ」
 
+> **2026-10-15 公開済みにつき本書は投稿前草稿の履歴。** 実際のpixivタイトル・説明・タグ・日時は[PUBLICATION.md](PUBLICATION.md)が正本。実際の登録タグは「漫画」「SCP」の2件、公開URLは https://www.pixiv.net/artworks/150872458 。
+
 **状態：投稿案・未公開。pixiv実投稿ではない。**
 **話数：未採番（EPXXXX）。pixiv題名に話数を記載しない。**
 **原作確認：2026-10-15、https://scp-jp.wikidot.com/scp-024-jp、著者ページ https://scp-jp.wikidot.com/author:ak1-yorunaga**
