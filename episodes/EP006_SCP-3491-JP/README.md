@@ -60,6 +60,13 @@
 - **ページ数**：3、**実登録タグ**：「漫画」「SCP」
 - **正式な記録**：[PUBLICATION.md](PUBLICATION.md)（登録本文・原作者・ライセンス・AI申告・原稿照合の未確認点も記録）
 
+## 幕間「師範の勘」（本編とは別の1ページ）
+
+- **公開作品**：[SCP-3491-JP 幕間・師範の勘｜SCPと一服](https://www.pixiv.net/artworks/150922208)（2026-10-16 20:59 JST）。
+- **[幕間制作・公開Workspace](interlude/README.md)**：喫煙室での七星とゴールディの後日談。人事記録にあった医務室への喫煙具持ち込み注意を巡る掛け合い。
+- **[完成原稿1ページ](interlude/images/final/P001.png)**／[画像来歴](interlude/images/README.md)／[制作時ネーム](interlude/name/P001.md)／[公開画像読解](interlude/name/P001_PUBLISHED.md)／[pixiv登録記録](interlude/PUBLICATION.md)／[クレジット](interlude/CREDITS.md)。
+- 幕間は本編3ページへ加算しない。**EP006の後日談でありEP007ではない**。pixiv登録タグは「SCP」1件、APIのシリーズ所属は未確認。
+
 ## 採用原稿（GitHub保存済み）
 
 - [P001](images/final/P001.png) ／ [P002](images/final/P002.png) ／ [P003](images/final/P003.png)

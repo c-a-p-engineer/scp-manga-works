@@ -84,6 +84,8 @@
 
 **[EP005 — SCP-024-JP「東弊カラオケ」](episodes/EP005_SCP-024-JP/README.md)** — **[pixiv公開済み（2026-10-15）](https://www.pixiv.net/artworks/150872458)**。4P完成原稿を[images/final](episodes/EP005_SCP-024-JP/images/README.md)へSHA維持で整理済み。[pixiv実投稿情報](episodes/EP005_SCP-024-JP/PUBLICATION.md)を保存。**正式話数 EP005（2026-10-15採番）**。
 
+**[EP006 — SCP-3491-JP「すくえない男」](episodes/EP006_SCP-3491-JP/README.md)** — [本編3ページ公開済み](https://www.pixiv.net/artworks/150912875)。さらに、**[幕間「師範の勘」1ページ](episodes/EP006_SCP-3491-JP/interlude/README.md)**も[2026-10-16にpixiv公開済み](https://www.pixiv.net/artworks/150922208)。[幕間完成原稿](episodes/EP006_SCP-3491-JP/interlude/images/final/P001.png)／[公開記録](episodes/EP006_SCP-3491-JP/interlude/PUBLICATION.md)。本編話数はEP006のまま。
+
 **[EP005 幕間「実験記録」](https://www.pixiv.net/artworks/150875995)** — **2026-10-15公開・1P**。[完成原稿](episodes/EP005_SCP-024-JP/interlude/images/final/P001.png)／[公開記録](episodes/EP005_SCP-024-JP/interlude/PUBLICATION.md)／[制作Workspace](episodes/EP005_SCP-024-JP/interlude/README.md)。本編と別管理。
 
 **[EP004 幕間 — サメ殴りセンター「スカウト」](https://www.pixiv.net/artworks/150850704)** — **2026-10-14 pixiv公開済み（ユーザー報告）**。1P完成原稿を[幕間Workspace](episodes/EP004_GOI/interlude/README.md)へ整理。[完成PNG](episodes/EP004_GOI/interlude/images/final/P001.png)／[公開記録](episodes/EP004_GOI/interlude/PUBLICATION.md)。本編EP004の4Pには加算しない。

@@ -22,6 +22,8 @@
 
 - **[EP005 / SCP-024-JP 幕間「実験記録」](https://www.pixiv.net/artworks/150875995)** — **2026-10-15 15:29 JST pixiv公開済み**。過去の実験記録4件と七星の喫煙可オチ、独立した1ページ。**[完成原稿P001](EP005_SCP-024-JP/interlude/images/final/P001.png) GitHub保存済み（元Blob SHA維持）**／[公開記録](EP005_SCP-024-JP/interlude/PUBLICATION.md)／[幕間Workspace](EP005_SCP-024-JP/interlude/README.md)／[公開画像のネーム](EP005_SCP-024-JP/interlude/name/P001_PUBLISHED.md)。実タグ「漫画」「SCP」。**本編EP005の4Pには含めず、EP006にも採番しない**。pixiv原画像とのバイナリ同一性は未照合。
 
+- **[EP006 / SCP-3491-JP 幕間「師範の勘」](https://www.pixiv.net/artworks/150922208)** — **2026-10-16 20:59 JST公開、全1ページ**。ゴールディが藤崎の人事記録に記された医務室へのタバコ持ち込み注意を知り、七星へ抗議する後日談。[完成原稿](EP006_SCP-3491-JP/interlude/images/final/P001.png)／[制作・公開Workspace](EP006_SCP-3491-JP/interlude/README.md)／[文章ネーム](EP006_SCP-3491-JP/interlude/name/P001.md)／[公開画像の読解](EP006_SCP-3491-JP/interlude/name/P001_PUBLISHED.md)／[実投稿情報](EP006_SCP-3491-JP/interlude/PUBLICATION.md)。GitHubへアップロードされた作者採用PNGを同一Blob SHAのまま移動。pixiv実登録タグは`SCP`のみで、シリーズ所属はAPIから未確認。**EP006本編3ページへ加算せず、EP007にも採番しない。**
+
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
 ## 番号未確定の作品
