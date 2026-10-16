@@ -7,7 +7,7 @@
 - 原典作成年：2025
 - 漫画シリーズ：**SCPと一服**
 - 話数：**EP006**
-- 漫画状態：文章ネーム3P草稿保存済み／画像未生成／未公開
+- 漫画状態：文章ネーム3P保存済み／作者選定の画像3Pを images/final/ へ保存済み／pixiv未公開（投稿待ち）
 - ライセンス：**Creative Commons Attribution-ShareAlike 3.0 Unported（CC BY-SA 3.0）**
 - ライセンス：https://creativecommons.org/licenses/by-sa/3.0/
 
