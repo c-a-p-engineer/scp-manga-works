@@ -13,7 +13,7 @@
 
 | **EP007** | [オブジェクトクラス](https://scp-jp.wikidot.com/object-classes)／[SCP-403](https://scp-jp.wikidot.com/scp-403) | **オブジェクトクラス（3P・13コマ）** | **P001〜P003 v4保存済み**（作者採用画像が原稿正本） | **[完成3P・GitHub保存済み](EP007_ObjectClass/images/README.md)**（PNG元Blob SHA保持） | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/150947642)**（2026-10-17・詳細メタデータ未照合） | [制作Workspace](EP007_ObjectClass/README.md) ／ [P001](EP007_ObjectClass/images/final/P001.png)・[P002](EP007_ObjectClass/images/final/P002.png)・[P003](EP007_ObjectClass/images/final/P003.png) ／ [公開記録](EP007_ObjectClass/PUBLICATION.md) ／ [クレジット](EP007_ObjectClass/CREDITS.md) |
 
-| **EP008** | [SCP-261](https://scp-jp.wikidot.com/scp-261)／[実験記録261-Ad-De](https://scp-jp.wikidot.com/experiment-log-261-ad-de) | **異次元自販機（3P・13コマ予定）** | **P001〜P003 v1.3再設計草稿保存済み（実験記録は2件）** | **会話内候補あり・未採用／GitHub未保存** | **未公開** | [制作Workspace](EP008_SCP-261/README.md) ／ [P001](EP008_SCP-261/name/P001.md)・[P002](EP008_SCP-261/name/P002.md)・[P003](EP008_SCP-261/name/P003.md) ／ [クレジット](EP008_SCP-261/CREDITS.md) |
+| **EP008** | [SCP-261](https://scp-jp.wikidot.com/scp-261)／[実験記録261-Ad-De](https://scp-jp.wikidot.com/experiment-log-261-ad-de) | **異次元自販機（3P・13コマ予定）** | **P001〜P003 v1.4品質改善草稿保存済み（Dクラス＝オレンジつなぎ）** | **会話内候補あり・未採用／GitHub未保存** | **未公開** | [制作Workspace](EP008_SCP-261/README.md) ／ [P001](EP008_SCP-261/name/P001.md)・[P002](EP008_SCP-261/name/P002.md)・[P003](EP008_SCP-261/name/P003.md) ／ [クレジット](EP008_SCP-261/CREDITS.md) |
 
 ## 幕間（本編の話数には含めない）
 
