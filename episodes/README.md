@@ -26,7 +26,7 @@
 
 - **[EP006 / SCP-3491-JP 幕間「師範の勘」](https://www.pixiv.net/artworks/150922208)** — **2026-10-16 20:59 JST公開、全1ページ**。ゴールディが藤崎の人事記録に記された医務室へのタバコ持ち込み注意を知り、七星へ抗議する後日談。[完成原稿](EP006_SCP-3491-JP/interlude/images/final/P001.png)／[制作・公開Workspace](EP006_SCP-3491-JP/interlude/README.md)／[文章ネーム](EP006_SCP-3491-JP/interlude/name/P001.md)／[公開画像の読解](EP006_SCP-3491-JP/interlude/name/P001_PUBLISHED.md)／[実投稿情報](EP006_SCP-3491-JP/interlude/PUBLICATION.md)。GitHubへアップロードされた作者採用PNGを同一Blob SHAのまま移動。pixiv実登録タグは`SCP`のみで、シリーズ所属はAPIから未確認。**EP006本編3ページへ加算せず、EP007にも採番しない。**
 
-- **EP007 幕間「主任のオブジェクトクラス」** — **完成1P・GitHub整理済み、pixiv未公開（URL未報告）**。本編[EP007「オブジェクトクラス」](EP007_ObjectClass/README.md)を受け、主任を財団神拳とタバコでKeter/Safeに分類する5コマの小話。[採用PNG](EP007_ObjectClass/interlude/images/final/P001.png)／[幕間Workspace](EP007_ObjectClass/interlude/README.md)／[最終画像準拠ネーム](EP007_ObjectClass/interlude/name/P001.md)／[公開用文案](EP007_ObjectClass/interlude/PUBLICATION.md)。ルート直下の元PNGから同一Blob SHAのまま移動。**EP007本編3Pに加算せず、EP008にも採番しない。**
+- **[EP007 幕間「主任のオブジェクトクラス」](https://www.pixiv.net/artworks/150948946)** — **2026-10-17 pixiv公開済み（作者報告）、完成1P・GitHub整理済み**。本編[EP007「オブジェクトクラス」](EP007_ObjectClass/README.md)を受け、主任を財団神拳とタバコでKeter/Safeに分類する5コマの小話。[採用PNG](EP007_ObjectClass/interlude/images/final/P001.png)／[幕間Workspace](EP007_ObjectClass/interlude/README.md)／[最終画像準拠ネーム](EP007_ObjectClass/interlude/name/P001.md)／[幕間公開記録](EP007_ObjectClass/interlude/PUBLICATION.md)。ルート直下の元PNGから同一Blob SHAのまま移動。**EP007本編3Pに加算せず、EP008にも採番しない。**
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
