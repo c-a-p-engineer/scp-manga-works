@@ -17,3 +17,8 @@ SCP由来の二次創作部分は **Creative Commons Attribution-ShareAlike 3.0 
 - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 **公開前の確認事項：** ガイドページの著者帰属、翻訳者帰属、採用する第三者画像がある場合の個別ライセンス。
+
+## 公開作品へのリンク
+
+- [EP007「オブジェクトクラス」pixiv公開ページ](https://www.pixiv.net/artworks/150947642)（2026-10-17、作者による公開報告）
+- [実投稿記録](PUBLICATION.md)／[作者採用の最終画像3枚](images/README.md)。pixiv投稿本文の実クレジット表示は未照合。
