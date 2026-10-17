@@ -13,6 +13,6 @@
 
 - SCP原作に依拠する二次創作として [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/) を適用する。
 - 原典画像を流用していない生成漫画原稿。第三者素材を別途再利用する場合は個別の権利確認が必要。
-- **本幕間は公開前**。pixivに実際に表示されたクレジット情報は未確認。投稿用文面案は [PUBLICATION.md](PUBLICATION.md) に保存。
+- **本幕間はpixiv公開済み**（2026-10-17作者報告）：[作品 150948946](https://www.pixiv.net/artworks/150948946)。pixivの実投稿本文におけるクレジットの記載は未確認。[公開記録と文案](PUBLICATION.md)に確認済み事項と未確認事項を分けて記録。
 
 「主任がKeterかSafeか」という会話は既存職員を実際にSCPとして登録・収容した公式設定を示すものではない。
