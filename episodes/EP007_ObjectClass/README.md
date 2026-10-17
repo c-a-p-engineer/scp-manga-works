@@ -31,7 +31,7 @@
 
 ## 幕間の扱い
 
-**[幕間「主任のオブジェクトクラス」](interlude/README.md)は1Pの完成原稿をGitHubへ保存済み。** ゴールディが財団神拳で脱出できる七星をケテルと分類し、七星が「タバコがあればおとなしくしてやる。収容方法が確立されてるからセーフだ」と反論。最後は「お前もだろうが」「そうです」の掛け合い。[完成PNG](interlude/images/final/P001.png) ／ [文章ネーム](interlude/name/P001.md) ／ [公開用情報（未公開）](interlude/PUBLICATION.md)。EP007本編3Pに加算せず、EP008にも採番しない。
+**[幕間「主任のオブジェクトクラス」](interlude/README.md)は1Pの完成原稿をGitHubへ保存済み、[pixiv公開済み](https://www.pixiv.net/artworks/150948946)（2026-10-17 作者報告）。** ゴールディが財団神拳で脱出できる七星をケテルと分類し、七星が「タバコがあればおとなしくしてやる。収容方法が確立されてるからセーフだ」と反論。最後は「お前もだろうが」「そうです」の掛け合い。[完成PNG](interlude/images/final/P001.png) ／ [文章ネーム](interlude/name/P001.md) ／ [幕間公開記録](interlude/PUBLICATION.md)。EP007本編3Pに加算せず、EP008にも採番しない。
 
 ## 出典・権利
 
