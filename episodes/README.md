@@ -30,7 +30,7 @@
 
 - **[EP007 幕間「主任のオブジェクトクラス」](https://www.pixiv.net/artworks/150948946)** — **2026-10-17 pixiv公開済み（作者報告）、完成1P・GitHub整理済み**。本編[EP007「オブジェクトクラス」](EP007_ObjectClass/README.md)を受け、主任を財団神拳とタバコでKeter/Safeに分類する5コマの小話。[採用PNG](EP007_ObjectClass/interlude/images/final/P001.png)／[幕間Workspace](EP007_ObjectClass/interlude/README.md)／[最終画像準拠ネーム](EP007_ObjectClass/interlude/name/P001.md)／[幕間公開記録](EP007_ObjectClass/interlude/PUBLICATION.md)。ルート直下の元PNGから同一Blob SHAのまま移動。**EP007本編3Pに加算せず、EP008にも採番しない。**
 
-- **[EP008 / SCP-261 幕間「タバコと自販機」](EP008_SCP-261/interlude/README.md)** — **独立1P・5コマ／完成PNGを `images/final/P001.png` に保存、pixiv公開準備済み・未公開**。青いタバコ21本、ガムシガレット5本、タバコ3本で出た鍵開け道具入りキャラメルの3件。**[完成原稿](EP008_SCP-261/interlude/images/final/P001.png)**／[画像準拠ネームv2](EP008_SCP-261/interlude/name/P001.md)／[pixiv投稿用下書き](EP008_SCP-261/interlude/PIXIV_DRAFT.md)。本編EP008の3ページに加算せず、EP009にも採番しない。
+- **[EP008 / SCP-261 幕間「タバコと自販機」](https://www.pixiv.net/artworks/150991280)** — **2026-10-18 14:00 JST pixiv公開済み／1P・5コマ、実投稿API照合済み**。実タグは`漫画`・`SCP`、シリーズ「SCPと一服」第14掲載作品。青いタバコ21本、ガムシガレット5本、タバコ3本で出た鍵開け道具入りキャラメルの3件。[完成原稿](EP008_SCP-261/interlude/images/final/P001.png)／[実投稿公開記録](EP008_SCP-261/interlude/PUBLICATION.md)／[画像準拠ネームv2](EP008_SCP-261/interlude/name/P001.md)／[幕間Workspace](EP008_SCP-261/interlude/README.md)。本編EP008の3Pに加算せず、EP009にも採番しない。
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
