@@ -2,6 +2,8 @@
 
 **状態：投稿前に用意した下書きを履歴保存（2026-10-18、同日公開済み）**。実投稿情報の正本は [PUBLICATION.md](PUBLICATION.md)。下記のタグや設定はあくまで当時の候補であり実投稿内容と同一とは限らない。
 
+**実際の公開URL**：https://www.pixiv.net/artworks/150991280 （実投稿内容は [PUBLICATION.md](PUBLICATION.md) を参照）
+
 ## 推奨タイトル（32文字以内）
 SCP-261 幕間・タバコと自販機｜SCPと一服
 
