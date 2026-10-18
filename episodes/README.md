@@ -13,7 +13,7 @@
 
 | **EP007** | [オブジェクトクラス](https://scp-jp.wikidot.com/object-classes)／[SCP-403](https://scp-jp.wikidot.com/scp-403) | **オブジェクトクラス（3P・13コマ）** | **P001〜P003 v4保存済み**（作者採用画像が原稿正本） | **[完成3P・GitHub保存済み](EP007_ObjectClass/images/README.md)**（PNG元Blob SHA保持） | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/150947642)**（2026-10-17・詳細メタデータ未照合） | [制作Workspace](EP007_ObjectClass/README.md) ／ [P001](EP007_ObjectClass/images/final/P001.png)・[P002](EP007_ObjectClass/images/final/P002.png)・[P003](EP007_ObjectClass/images/final/P003.png) ／ [公開記録](EP007_ObjectClass/PUBLICATION.md) ／ [クレジット](EP007_ObjectClass/CREDITS.md) |
 
-| **EP008** | [SCP-261](https://scp-jp.wikidot.com/scp-261)／[実験記録261-Ad-De](https://scp-jp.wikidot.com/experiment-log-261-ad-de) | **異次元自販機（3P・13コマ予定）** | **P001〜P003 v1.4品質改善草稿保存済み（Dクラス＝オレンジつなぎ）** | **会話内候補あり・未採用／GitHub未保存** | **未公開** | [制作Workspace](EP008_SCP-261/README.md) ／ [P001](EP008_SCP-261/name/P001.md)・[P002](EP008_SCP-261/name/P002.md)・[P003](EP008_SCP-261/name/P003.md) ／ [クレジット](EP008_SCP-261/CREDITS.md) |
+| **EP008** | [SCP-261](https://scp-jp.wikidot.com/scp-261)／[追加実験記録](https://scp-wiki.wikidot.com/experiment-log-261-ad-de) | **異次元自販機（本編3P）** | **v1.4文章ネームは旧草稿／公開画像が正本** | **[完成原稿3P保存済み](EP008_SCP-261/images/README.md)** | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/150975893)** | [制作Workspace](EP008_SCP-261/README.md) ／ [公開記録](EP008_SCP-261/PUBLICATION.md) ／ [クレジット](EP008_SCP-261/CREDITS.md) |
 
 ## 幕間（本編の話数には含めない）
 
@@ -30,7 +30,7 @@
 
 - **[EP007 幕間「主任のオブジェクトクラス」](https://www.pixiv.net/artworks/150948946)** — **2026-10-17 pixiv公開済み（作者報告）、完成1P・GitHub整理済み**。本編[EP007「オブジェクトクラス」](EP007_ObjectClass/README.md)を受け、主任を財団神拳とタバコでKeter/Safeに分類する5コマの小話。[採用PNG](EP007_ObjectClass/interlude/images/final/P001.png)／[幕間Workspace](EP007_ObjectClass/interlude/README.md)／[最終画像準拠ネーム](EP007_ObjectClass/interlude/name/P001.md)／[幕間公開記録](EP007_ObjectClass/interlude/PUBLICATION.md)。ルート直下の元PNGから同一Blob SHAのまま移動。**EP007本編3Pに加算せず、EP008にも採番しない。**
 
-- **[EP008 / SCP-261 幕間「タバコと自販機」](EP008_SCP-261/interlude/README.md)** — **1P・5コマの文章ネームv1草稿保存済み、画像未生成・未公開**。英語版のSCP-261追加実験記録から「青いタバコ21本」「ガムシガレット5本」「潰したタバコ3本で鍵開け道具入りキャラメル」の3件を漫画化する企画。[文章ネーム P001](EP008_SCP-261/interlude/name/P001.md)／[原作出典・クレジット](EP008_SCP-261/CREDITS.md)。本編[EP008「異次元自販機」](EP008_SCP-261/README.md)3Pとは別で、EP009へ採番しない。
+- **[EP008 / SCP-261 幕間「タバコと自販機」](EP008_SCP-261/interlude/README.md)** — **独立1P・5コマ／完成PNGを `images/final/P001.png` に保存、pixiv公開準備済み・未公開**。青いタバコ21本、ガムシガレット5本、タバコ3本で出た鍵開け道具入りキャラメルの3件。**[完成原稿](EP008_SCP-261/interlude/images/final/P001.png)**／[画像準拠ネームv2](EP008_SCP-261/interlude/name/P001.md)／[pixiv投稿用下書き](EP008_SCP-261/interlude/PIXIV_DRAFT.md)。本編EP008の3ページに加算せず、EP009にも採番しない。
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
