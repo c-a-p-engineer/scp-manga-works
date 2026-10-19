@@ -15,6 +15,8 @@
 
 | **EP008** | [SCP-261](https://scp-jp.wikidot.com/scp-261)／[追加実験記録](https://scp-wiki.wikidot.com/experiment-log-261-ad-de) | **異次元自販機（本編3P）** | **v1.4文章ネームは旧草稿／公開画像が正本** | **[完成原稿3P保存済み](EP008_SCP-261/images/README.md)** | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/150975893)** | [制作Workspace](EP008_SCP-261/README.md) ／ [公開記録](EP008_SCP-261/PUBLICATION.md) ／ [クレジット](EP008_SCP-261/CREDITS.md) |
 
+| **EP009** | [SCP-1641-JP](https://scp-jp.wikidot.com/scp-1641-jp) | **ノスタルジア☆コーヒーメーカー（本編3P）**／pixiv「SCP-1641-JP 思い出の一杯｜SCPと一服」 | **[P001〜P003文章ネーム](EP009_SCP-1641-JP/name/P001.md)**（公開画像が正本） | **[完成3P・GitHub整理済み](EP009_SCP-1641-JP/images/README.md)**（ルート元PNGのBlob SHA維持） | **[pixiv公開済み](https://www.pixiv.net/artworks/151036333)**（2026-10-19 16:42 JST、実API照合） | [EP009](EP009_SCP-1641-JP/README.md) ／ [本編記録](EP009_SCP-1641-JP/PUBLICATION.md) ／ [幕間](EP009_SCP-1641-JP/interlude/README.md) ／ [原作クレジット](EP009_SCP-1641-JP/CREDITS.md) |
+
 ## 幕間（本編の話数には含めない）
 
 - **[SCP-9908 幕間「翌朝」](https://www.pixiv.net/artworks/150797153)** — EP002の翌朝を描く**1ページのpixiv公開作品**（2026-10-13 09:53 JST）。[実投稿を正本とする公開記録](EP002_SCP-9908/interlude/PUBLICATION.md)／[制作ネーム](EP002_SCP-9908/interlude/name/P001.md)。[原寸完成原稿P001](EP002_SCP-9908/interlude/images/final/P001.png)をユーザーのルート直下アップロードからGit Blob SHA保持で整理。[画像管理](EP002_SCP-9908/interlude/images/README.md)。pixiv実掲載とのバイナリ照合は未確認。**EP003には採番しない。**
@@ -31,6 +33,8 @@
 - **[EP007 幕間「主任のオブジェクトクラス」](https://www.pixiv.net/artworks/150948946)** — **2026-10-17 pixiv公開済み（作者報告）、完成1P・GitHub整理済み**。本編[EP007「オブジェクトクラス」](EP007_ObjectClass/README.md)を受け、主任を財団神拳とタバコでKeter/Safeに分類する5コマの小話。[採用PNG](EP007_ObjectClass/interlude/images/final/P001.png)／[幕間Workspace](EP007_ObjectClass/interlude/README.md)／[最終画像準拠ネーム](EP007_ObjectClass/interlude/name/P001.md)／[幕間公開記録](EP007_ObjectClass/interlude/PUBLICATION.md)。ルート直下の元PNGから同一Blob SHAのまま移動。**EP007本編3Pに加算せず、EP008にも採番しない。**
 
 - **[EP008 / SCP-261 幕間「タバコと自販機」](https://www.pixiv.net/artworks/150991280)** — **2026-10-18 14:00 JST pixiv公開済み／1P・5コマ、実投稿API照合済み**。実タグは`漫画`・`SCP`、シリーズ「SCPと一服」第14掲載作品。青いタバコ21本、ガムシガレット5本、タバコ3本で出た鍵開け道具入りキャラメルの3件。[完成原稿](EP008_SCP-261/interlude/images/final/P001.png)／[実投稿公開記録](EP008_SCP-261/interlude/PUBLICATION.md)／[画像準拠ネームv2](EP008_SCP-261/interlude/name/P001.md)／[幕間Workspace](EP008_SCP-261/interlude/README.md)。本編EP008の3Pに加算せず、EP009にも採番しない。
+
+- **[EP009 / SCP-1641-JP 幕間「4団体の関係」](https://www.pixiv.net/artworks/151036388)** — **2026-10-19 16:45 JST pixiv公開、1P、AJAX実投稿データ照合済み**。超工家電・東弊重工・如月工務店・夏鳥思想連盟の関係を関係図で紹介。[完成原稿](EP009_SCP-1641-JP/interlude/images/final/P001.png)／[画像対応表](EP009_SCP-1641-JP/interlude/images/README.md)／[制作ネーム](EP009_SCP-1641-JP/interlude/name/P001.md)／[公開記録](EP009_SCP-1641-JP/interlude/PUBLICATION.md)。本編3Pに加算せず、EP010にも採番しない。
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 

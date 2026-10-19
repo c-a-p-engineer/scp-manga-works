@@ -71,6 +71,9 @@
 
 ## 公開済みエピソード
 
+**[EP009 — SCP-1641-JP「ノスタルジア☆コーヒーメーカー」](episodes/EP009_SCP-1641-JP/README.md)** — 2026-10-19公開。[本編3P](https://www.pixiv.net/artworks/151036333)（[P001](episodes/EP009_SCP-1641-JP/images/final/P001.png)・[P002](episodes/EP009_SCP-1641-JP/images/final/P002.png)・[P003](episodes/EP009_SCP-1641-JP/images/final/P003.png)）＋[幕間1P](https://www.pixiv.net/artworks/151036388)（[完成画像](episodes/EP009_SCP-1641-JP/interlude/images/final/P001.png)）。[pixiv実投稿データ](episodes/EP009_SCP-1641-JP/PUBLICATION.md)／[幕間実投稿データ](episodes/EP009_SCP-1641-JP/interlude/PUBLICATION.md)／[原作クレジット](episodes/EP009_SCP-1641-JP/CREDITS.md)。
+
+
 
 **[EP001 — SCP-403「新人歓迎」](episodes/EP001_SCP-403/README.md)** — **[pixiv公開済み（2026-10-12）](https://www.pixiv.net/artworks/150764451)**。
 
