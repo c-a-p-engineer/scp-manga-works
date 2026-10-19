@@ -17,7 +17,7 @@
 
 | **EP009** | [SCP-1641-JP](https://scp-jp.wikidot.com/scp-1641-jp) | **ノスタルジア☆コーヒーメーカー（本編3P）**／pixiv「SCP-1641-JP 思い出の一杯｜SCPと一服」 | **[P001〜P003文章ネーム](EP009_SCP-1641-JP/name/P001.md)**（公開画像が正本） | **[完成3P・GitHub整理済み](EP009_SCP-1641-JP/images/README.md)**（ルート元PNGのBlob SHA維持） | **[pixiv公開済み](https://www.pixiv.net/artworks/151036333)**（2026-10-19 16:42 JST、実API照合） | [EP009](EP009_SCP-1641-JP/README.md) ／ [本編記録](EP009_SCP-1641-JP/PUBLICATION.md) ／ [幕間](EP009_SCP-1641-JP/interlude/README.md) ／ [原作クレジット](EP009_SCP-1641-JP/CREDITS.md) |
 
-| **EP010** | [ヒュームFAQ](https://scp-jp.wikidot.com/and-this-one-explains-humes)／[SCP-239](https://scp-jp.wikidot.com/scp-239)／[東弊重工](https://scp-jp.wikidot.com/groups-of-interest-jp) | **現実改変とヒューム値（3P・15コマ）** | **[P001〜P003文章ネームv1保存](EP010_Hume/README.md)**（煙の濃淡の比喩→本人と周囲の現実性差→SCP-239→東弊重工オチ） | **未生成** | **未公開** | [制作Workspace](EP010_Hume/README.md) ／ [P001](EP010_Hume/name/P001.md)・[P002](EP010_Hume/name/P002.md)・[P003](EP010_Hume/name/P003.md) ／ [クレジット](EP010_Hume/CREDITS.md) |
+| **EP010** | [ヒュームFAQ](https://scp-jp.wikidot.com/and-this-one-explains-humes)／[SCP-239](https://scp-jp.wikidot.com/scp-239)／[東弊重工](https://scp-jp.wikidot.com/groups-of-interest-jp) | **現実改変とヒューム値（3P）**／pixiv「SCP-239 現実改変とヒューム値｜SCPと一服」 | **ネームv1〜v2・[公開画像との対応記録](EP010_Hume/name/PUBLISHED_NOTES.md)**（公開画像が正本） | **[完成3P・Git Blob SHA保持で整理](EP010_Hume/images/README.md)** | **[pixiv公開済み](https://www.pixiv.net/artworks/151064466)**（2026-10-20 08:31 JST／実API照合） | [EP010](EP010_Hume/README.md) ／ [公開記録](EP010_Hume/PUBLICATION.md) ／ [P001](EP010_Hume/images/final/P001.png)・[P002](EP010_Hume/images/final/P002.png)・[P003](EP010_Hume/images/final/P003.png) ／ [クレジット](EP010_Hume/CREDITS.md) |
 
 ## 幕間（本編の話数には含めない）
 
