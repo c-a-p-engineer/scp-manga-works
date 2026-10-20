@@ -38,6 +38,8 @@
 
 - **[EP009 / SCP-1641-JP 幕間「4団体の関係」](https://www.pixiv.net/artworks/151036388)** — **2026-10-19 16:45 JST pixiv公開、1P、AJAX実投稿データ照合済み**。超工家電・東弊重工・如月工務店・夏鳥思想連盟の関係を関係図で紹介。[完成原稿](EP009_SCP-1641-JP/interlude/images/final/P001.png)／[画像対応表](EP009_SCP-1641-JP/interlude/images/README.md)／[制作ネーム](EP009_SCP-1641-JP/interlude/name/P001.md)／[公開記録](EP009_SCP-1641-JP/interlude/PUBLICATION.md)。本編3Pに加算せず、EP010にも採番しない。
 
+- **EP010 幕間「カント計数機」** — **2026-10-20文章ネームv1保存／1P・5コマ／画像未生成・未公開**。0・100ヒュームの基準となる二つの小型現実空間とカント計数機を紹介し、財団神拳の「科学に基づいた武術だ」という七星の断言で落とす。[幕間Workspace](EP010_Hume/interlude/README.md)／[P001ネーム](EP010_Hume/interlude/name/P001.md)／[クレジット](EP010_Hume/interlude/CREDITS.md)。**本編EP010（公開済み3P）へ加算せず、EP011にも採番しない。**
+
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
 ## 番号未確定の作品
