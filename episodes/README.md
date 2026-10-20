@@ -41,6 +41,8 @@
 
 - **[EP010 幕間「カント計数機」](https://www.pixiv.net/artworks/151067818)** — **2026-10-20 12:00 JST pixiv公開済み／1P、実投稿データ照合済み**。シリーズ第18掲載、タグ`漫画`・`SCP`、AI利用申告あり。カント計数機が0／100ヒュームの二つの小型現実空間を基準に測る説明と、財団神拳を「科学に基づいた武術」と断言するオチ。[幕間Workspace](EP010_Hume/interlude/README.md)／[採用PNG](EP010_Hume/interlude/images/final/P001.png)／[画像出自](EP010_Hume/interlude/images/README.md)／[公開版ネーム](EP010_Hume/interlude/name/P001_PUBLISHED.md)／[実投稿記録](EP010_Hume/interlude/PUBLICATION.md)／[クレジット](EP010_Hume/interlude/CREDITS.md)。原案5コマ・画像4コマ。**EP010本編3Pには加えずEP011にも採番しない。**
 
+- **[EP011 幕間「空調と現実錨」](EP011_SCP-3001/interlude/README.md)** — **1P・5コマの文章ネームv1保存済み、作者確認待ち／画像未生成・未公開**。空調を例えに現実錨の仕組みを説明し、LSSが現実錨の基礎となり2005年に稼働している原典描写を踏まえる。[ネーム](EP011_SCP-3001/interlude/name/P001.md)／[出典](EP011_SCP-3001/interlude/CREDITS.md)。本編EP011の公開済み6ページに加えない。
+
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 
 ## 番号未確定の作品
