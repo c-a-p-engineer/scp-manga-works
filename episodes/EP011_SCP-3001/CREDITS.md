@@ -1,6 +1,6 @@
-# EP011 — 原典・翻案・ライセンス（v4／未公開）
+# EP011 — 原典・翻案・ライセンス（公開版／2026-10-20）
 
-本作はSCP Wikiの世界観を用いた非公式二次創作です。**画像は未採用・未公開**であり、本ページはネーム段階のクレジットです。
+本作はSCP Wikiの世界観を用いた非公式二次創作です。**2026-10-20 pixiv公開済み（作者報告、全6P）**：[作品151086265](https://www.pixiv.net/artworks/151086265)。原典・翻案・ライセンスを区別して記録します。
 
 ## 一次資料
 
@@ -35,4 +35,4 @@ SCP由来の二次創作として、公開する場合は原作名・原著者�
 - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [SCP Wiki Licensing Guide](https://scp-wiki.wikidot.com/licensing-guide)
 
-公開URL、公開日時、確定版画像は**未存在／未確認**。 
+公開先：[pixiv作品151086265](https://www.pixiv.net/artworks/151086265)（2026-10-20、作者報告）。[完成原稿6P](images/README.md)／[公開記録](PUBLICATION.md)。正確な投稿時刻・pixiv本文・タグ・画像バイト列の照合は未実施。 
