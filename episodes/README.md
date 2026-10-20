@@ -19,6 +19,8 @@
 
 | **EP010** | [ヒュームFAQ](https://scp-jp.wikidot.com/and-this-one-explains-humes)／[SCP-239](https://scp-jp.wikidot.com/scp-239)／[東弊重工](https://scp-jp.wikidot.com/groups-of-interest-jp) | **現実改変とヒューム値（3P）**／pixiv「SCP-239 現実改変とヒューム値｜SCPと一服」 | **ネームv1〜v2・[公開画像との対応記録](EP010_Hume/name/PUBLISHED_NOTES.md)**（公開画像が正本） | **[完成3P・Git Blob SHA保持で整理](EP010_Hume/images/README.md)** | **[pixiv公開済み](https://www.pixiv.net/artworks/151064466)**（2026-10-20 08:31 JST／実API照合） | [EP010](EP010_Hume/README.md) ／ [公開記録](EP010_Hume/PUBLICATION.md) ／ [P001](EP010_Hume/images/final/P001.png)・[P002](EP010_Hume/images/final/P002.png)・[P003](EP010_Hume/images/final/P003.png) ／ [クレジット](EP010_Hume/CREDITS.md) |
 
+| **EP011** | [SCP-3001](https://scp-jp.wikidot.com/scp-3001)／[スクラントン現実錨](https://scp-jp.wikidot.com/glossary-of-terms) | **レッド・リアリティ（6P・文章ネームv3）** | **[P001〜P006文章ネーム保存済み](EP011_SCP-3001/README.md)**（原典・読順・人物・小物修正、作者確認待ち） | **既存6P生成候補はレビューNG・GitHub未保存／完成画像なし** | **未公開** | [制作Workspace](EP011_SCP-3001/README.md) ／ [原典・ライセンス](EP011_SCP-3001/CREDITS.md) |
+
 ## 幕間（本編の話数には含めない）
 
 - **[SCP-9908 幕間「翌朝」](https://www.pixiv.net/artworks/150797153)** — EP002の翌朝を描く**1ページのpixiv公開作品**（2026-10-13 09:53 JST）。[実投稿を正本とする公開記録](EP002_SCP-9908/interlude/PUBLICATION.md)／[制作ネーム](EP002_SCP-9908/interlude/name/P001.md)。[原寸完成原稿P001](EP002_SCP-9908/interlude/images/final/P001.png)をユーザーのルート直下アップロードからGit Blob SHA保持で整理。[画像管理](EP002_SCP-9908/interlude/images/README.md)。pixiv実掲載とのバイナリ照合は未確認。**EP003には採番しない。**
