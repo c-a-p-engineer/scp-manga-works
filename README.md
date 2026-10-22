@@ -73,6 +73,8 @@
 
 **[EP012 — SCP-2148-JP「喫煙治療計画」](episodes/EP012_SCP-2148-JP/README.md)** — **2026-10-22 pixiv公開済み（作者報告）・全5P**。[公開作品](https://www.pixiv.net/artworks/151120131)／[完成原稿5P](episodes/EP012_SCP-2148-JP/images/README.md)／[公開記録](episodes/EP012_SCP-2148-JP/PUBLICATION.md)／[文章ネーム](episodes/EP012_SCP-2148-JP/name/PUBLISHED_NOTES.md)。
 
+**[EP012 幕間「銘柄不明」](episodes/EP012_SCP-2148-JP/interlude/README.md)** — **2026-10-22 pixiv公開済み（作者報告）・カラー1P**。[公開作品](https://www.pixiv.net/artworks/151138375)／[完成原稿](episodes/EP012_SCP-2148-JP/interlude/images/final/P001.png)／[公開ネーム](episodes/EP012_SCP-2148-JP/interlude/name/P001.md)／[公開記録](episodes/EP012_SCP-2148-JP/interlude/PUBLICATION.md)。
+
 **[EP011 — SCP-3001「レッド・リアリティ」](episodes/EP011_SCP-3001/README.md)** — 2026-10-20 pixiv公開済み（作者報告）。[公開作品](https://www.pixiv.net/artworks/151086265)／[完成原稿6P](episodes/EP011_SCP-3001/images/README.md)／[公開記録](episodes/EP011_SCP-3001/PUBLICATION.md)。
 
 **[EP009 — SCP-1641-JP「ノスタルジア☆コーヒーメーカー」](episodes/EP009_SCP-1641-JP/README.md)** — 2026-10-19公開。[本編3P](https://www.pixiv.net/artworks/151036333)（[P001](episodes/EP009_SCP-1641-JP/images/final/P001.png)・[P002](episodes/EP009_SCP-1641-JP/images/final/P002.png)・[P003](episodes/EP009_SCP-1641-JP/images/final/P003.png)）＋[幕間1P](https://www.pixiv.net/artworks/151036388)（[完成画像](episodes/EP009_SCP-1641-JP/interlude/images/final/P001.png)）。[pixiv実投稿データ](episodes/EP009_SCP-1641-JP/PUBLICATION.md)／[幕間実投稿データ](episodes/EP009_SCP-1641-JP/interlude/PUBLICATION.md)／[原作クレジット](episodes/EP009_SCP-1641-JP/CREDITS.md)。

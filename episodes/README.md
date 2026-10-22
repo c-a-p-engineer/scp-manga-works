@@ -45,7 +45,7 @@
 
 - **[EP011 幕間「空調と現実錨」](EP011_SCP-3001/interlude/README.md)** — **1P・5コマの文章ネームv1保存済み、作者確認待ち／画像未生成・未公開**。空調を例えに現実錨の仕組みを説明し、LSSが現実錨の基礎となり2005年に稼働している原典描写を踏まえる。[ネーム](EP011_SCP-3001/interlude/name/P001.md)／[出典](EP011_SCP-3001/interlude/CREDITS.md)。本編EP011の公開済み6ページに加えない。
 
-- **[EP012 幕間「銘柄不明」](EP012_SCP-2148-JP/interlude/README.md)** — 2026-10-22、**1P・5コマの文章ネームv1保存済み／作者確認待ち／画像未生成・未公開**。タバコの██社製・全長95mmなどの原典情報を読み、「味で銘柄が分かるかも」と考えるゴールディを七星が止める小話。[文章ネーム](EP012_SCP-2148-JP/interlude/name/P001.md)／[出典・ライセンス](EP012_SCP-2148-JP/interlude/CREDITS.md)。**EP012本編5PにもEP013にも加算しない。**
+- **[EP012 幕間「銘柄不明」](EP012_SCP-2148-JP/interlude/README.md)** — **2026-10-22 pixiv公開済み（作者報告）／カラー1P・5コマ**。[公開作品](https://www.pixiv.net/artworks/151138375)／[完成原稿](EP012_SCP-2148-JP/interlude/images/final/P001.png)／[公開対応文章ネームv2](EP012_SCP-2148-JP/interlude/name/P001.md)／[公開記録](EP012_SCP-2148-JP/interlude/PUBLICATION.md)／[ライセンス](EP012_SCP-2148-JP/interlude/CREDITS.md)。初期「試すな」案は不採用、最終「でもやっぱりやめらんねぇ！」。本編5Pに加算しない。
 
 旧案 [SCP-650「見てないと来る」](EP001_SCP-650/README.md) は**不採用の初期草稿として保存**。現在のEP001には含めず、制作・公開ステータスも付けない。
 

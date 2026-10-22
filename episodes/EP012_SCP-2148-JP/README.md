@@ -28,6 +28,8 @@
 - [公開原稿との差分](name/PUBLISHED_NOTES.md)／[原典・CC BY-SA 3.0](CREDITS.md)／[連載人物基準](../../characters/README.md)。
 - 古い本Repoの3P草稿READMEは2026-10-22の5P公開版に更新した。未作成だった `name/P001.md` 等の実体を補完した。
 
-## EP012 幕間（草稿）
+## EP012 幕間（公開済み）
 
-- **[「銘柄不明」](interlude/README.md)** — 2026-10-22、独立1ページ・5コマの[文章ネームv1](interlude/name/P001.md)作成。原典にある██社製・直径7mm・全長95mm・通常製品と同じ成分を題材に、銘柄が判別できないことへのゴールディの執着と七星の制止を描く。**作者確認待ち・画像未生成・未公開**。本編5ページには加算しない。
+- **[幕間「銘柄不明」](interlude/README.md)** — **2026-10-22 pixiv公開済み（作者報告）**。[公開作品](https://www.pixiv.net/artworks/151138375)／[完成画像1P](interlude/images/final/P001.png)／[公開版ネームv2](interlude/name/P001.md)／[旧v1](interlude/name/archive/P001_v1.md)。
+- **オチ変更を反映**：旧案「吸えば味で分かるかも／試すな。」から、起源不明の不気味さ→「お前が今から手に取るタバコはどうだろうな？」→ゴールディ「でもやっぱりやめらんねぇ！」へ。[差分・画像QA](interlude/name/PUBLISHED_NOTES.md)。
+- [幕間公開記録](interlude/PUBLICATION.md)／[原典とライセンス](interlude/CREDITS.md)／[画像管理](interlude/images/README.md)。本編5ページ、EP番号は変更なし。
