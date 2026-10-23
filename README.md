@@ -71,6 +71,10 @@
 
 ## 公開済みエピソード
 
+**[EP013 — 記憶処理](episodes/EP013_Memory/README.md)** — **2026-10-23 pixiv公開済み（作者報告）・全3P**。[公開作品](https://www.pixiv.net/artworks/151167242)／[完成原稿3P](episodes/EP013_Memory/images/README.md)／[公開記録](episodes/EP013_Memory/PUBLICATION.md)／[文章ネーム](episodes/EP013_Memory/name/PUBLISHED_NOTES.md)。
+
+
+
 **[EP012 — SCP-2148-JP「喫煙治療計画」](episodes/EP012_SCP-2148-JP/README.md)** — **2026-10-22 pixiv公開済み（作者報告）・全5P**。[公開作品](https://www.pixiv.net/artworks/151120131)／[完成原稿5P](episodes/EP012_SCP-2148-JP/images/README.md)／[公開記録](episodes/EP012_SCP-2148-JP/PUBLICATION.md)／[文章ネーム](episodes/EP012_SCP-2148-JP/name/PUBLISHED_NOTES.md)。
 
 **[EP012 幕間「銘柄不明」](episodes/EP012_SCP-2148-JP/interlude/README.md)** — **2026-10-22 pixiv公開済み（作者報告）・カラー1P**。[公開作品](https://www.pixiv.net/artworks/151138375)／[完成原稿](episodes/EP012_SCP-2148-JP/interlude/images/final/P001.png)／[公開ネーム](episodes/EP012_SCP-2148-JP/interlude/name/P001.md)／[公開記録](episodes/EP012_SCP-2148-JP/interlude/PUBLICATION.md)。
