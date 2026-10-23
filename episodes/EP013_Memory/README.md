@@ -23,3 +23,7 @@
 - 完成原稿の実際の字面・コマ割りを正本とし、文章ネームは制作意図を記録する。画像との差は[公開対応メモ](name/PUBLISHED_NOTES.md)へ。
 - pixiv公開報告とURLは作者から直接取得。pixiv側の実登録タイトル、公開時刻、タグ、投稿説明文、画像のバイナリ同一性は未照合。[公開記録](PUBLICATION.md)参照。
 - [原典とライセンス](CREDITS.md) ／ [X告知文案](SOCIAL_DRAFT.md)
+
+## 幕間（公開済み）
+
+- **[幕間「実証」](interlude/README.md)** — 2026-10-23 pixiv公開済み（作者報告）、カラー1P・5コマ。[pixiv作品](https://www.pixiv.net/artworks/151173257) ／ [採用原稿](interlude/images/final/P001.png) ／ [文章ネーム](interlude/name/P001.md) ／ [公開記録](interlude/PUBLICATION.md)。本編3ページ・EP番号には加算しない。

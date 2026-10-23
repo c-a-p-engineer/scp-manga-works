@@ -71,6 +71,8 @@
 
 ## 公開済みエピソード
 
+**[EP013 幕間「実証」](episodes/EP013_Memory/interlude/README.md)** — **2026-10-23公開済み（作者報告）、全1P**。[公開先](https://www.pixiv.net/artworks/151173257)／[原稿](episodes/EP013_Memory/interlude/images/final/P001.png)／[ネーム](episodes/EP013_Memory/interlude/name/P001.md)。
+
 **[EP013 — 記憶処理](episodes/EP013_Memory/README.md)** — **2026-10-23 pixiv公開済み（作者報告）・全3P**。[公開作品](https://www.pixiv.net/artworks/151167242)／[完成原稿3P](episodes/EP013_Memory/images/README.md)／[公開記録](episodes/EP013_Memory/PUBLICATION.md)／[文章ネーム](episodes/EP013_Memory/name/PUBLISHED_NOTES.md)。
 
 

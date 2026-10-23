@@ -25,6 +25,9 @@
 
 ## 幕間（本編の話数には含めない）
 
+- **[EP013 幕間「実証」](https://www.pixiv.net/artworks/151173257)** — **2026-10-23公開済み（作者報告）、カラー1P・5コマ**。記憶処理でタバコの楽しみを失った自分への怒り。[完成原稿](EP013_Memory/interlude/images/final/P001.png)／[文章ネーム](EP013_Memory/interlude/name/P001.md)／[公開記録](EP013_Memory/interlude/PUBLICATION.md)。本編EP013の3Pには加えない。
+
+
 - **[SCP-9908 幕間「翌朝」](https://www.pixiv.net/artworks/150797153)** — EP002の翌朝を描く**1ページのpixiv公開作品**（2026-10-13 09:53 JST）。[実投稿を正本とする公開記録](EP002_SCP-9908/interlude/PUBLICATION.md)／[制作ネーム](EP002_SCP-9908/interlude/name/P001.md)。[原寸完成原稿P001](EP002_SCP-9908/interlude/images/final/P001.png)をユーザーのルート直下アップロードからGit Blob SHA保持で整理。[画像管理](EP002_SCP-9908/interlude/images/README.md)。pixiv実掲載とのバイナリ照合は未確認。**EP003には採番しない。**
 
 - **[EP003 / SCP-710-JP-J 幕間「現実だ」](https://www.pixiv.net/artworks/150832515)** — **2026-10-14 08:27 JST公開**。1ページ（1055×1491 px）、実登録タグ `漫画`、シリーズ第5掲載作品。[完成原稿](EP003_SCP-710-JP-J/interlude/images/final/P001.png)／[実投稿記録](EP003_SCP-710-JP-J/interlude/PUBLICATION.md)／[ネームv7](EP003_SCP-710-JP-J/interlude/name/P001.md)。EP003本編2ページには含めず、EP004へ採番しない。
