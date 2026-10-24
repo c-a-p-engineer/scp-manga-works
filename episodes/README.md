@@ -27,6 +27,10 @@
 
 ## 幕間（本編の話数には含めない）
 
+- **[EP014 幕間「タウミエルって何？」](https://www.pixiv.net/artworks/151249158)** — 2026-10-25公開（作者報告）、カラー縦長1P・5コマ。[完成原稿](EP014_SCP-3000/interlude/images/final/P001.png)／[文章ネーム](EP014_SCP-3000/interlude/name/P001.md)／[公開記録](EP014_SCP-3000/interlude/PUBLICATION.md)。
+
+
+
 - **[EP013 幕間「実証」](https://www.pixiv.net/artworks/151173257)** — **2026-10-23公開済み（作者報告）、カラー1P・5コマ**。記憶処理でタバコの楽しみを失った自分への怒り。[完成原稿](EP013_Memory/interlude/images/final/P001.png)／[文章ネーム](EP013_Memory/interlude/name/P001.md)／[公開記録](EP013_Memory/interlude/PUBLICATION.md)。本編EP013の3Pには加えない。
 
 
