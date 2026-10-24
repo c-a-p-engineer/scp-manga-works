@@ -14,3 +14,7 @@ P001 巨大なSCP-3000を紹介。P002 分泌物Y-909が一部の記憶処理薬
 
 ## 状態
 pixiv公開済み（作者報告）。作者アップロードの4 PNGを `images/final/P001.png`〜`P004.png` へGit Blob SHA維持で整理済み。pixiv掲載画像とのバイナリ同一性は未検証。
+
+## 幕間
+
+- [タウミエルって何？](interlude/README.md) — [完成原稿](interlude/images/final/P001.png)、[文章ネーム](interlude/name/P001.md)、[公開記録](interlude/PUBLICATION.md)。
