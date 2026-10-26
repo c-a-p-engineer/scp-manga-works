@@ -20,6 +20,7 @@ This repository is the **workspace for an unofficial, serialized SCP manga**. It
 ## Default manga production workflow
 
 1. Confirm the featured SCP's primary article, attribution and the work's fixed character reference images.
+   For the **SCPと一服** series, apply [series/VISUAL_STYLE.md](series/VISUAL_STYLE.md) as the series-specific standard for new art and backgrounds. This is subordinate to approved Character Sheets, per-episode text names, and author instructions; legacy color treatments remain historical, not active defaults.
 2. Create/revise the **text manga name** (`name/P001.md`, etc.): narrative beats, Japanese RTL physical panel order, dialogue/narration owner, key poses, characters' positions and prop-state continuity.
 3. Generate **one final-page candidate at a time** with the applicable manga-generation skills, using actual character image references where required. Do not require Blueprint compilation, Clean/Annotated, manifests or Contact Sheets before image generation.
 4. Review the **actual rendered page**, not just the script: RTL reading order, dialogue-to-speaker/balloon/tail mapping, Japanese text, character identity, hands/fingers, cigarette/prop transitions, mob/background density and SCP factual consistency.
