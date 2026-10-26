@@ -25,6 +25,8 @@
 
 | **EP014** | [SCP-3000](https://scp-jp.wikidot.com/scp-3000) | **アナンタシェーシャ（4P）** | [公開対応文章ネーム](EP014_SCP-3000/name/PUBLISHED_NOTES.md) | **[完成4P・Git Blob SHA保持で整理済み](EP014_SCP-3000/images/README.md)** | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/151233597)**（2026-10-24） | [制作記録](EP014_SCP-3000/README.md) ／ [公開記録](EP014_SCP-3000/PUBLICATION.md) ／ [クレジット](EP014_SCP-3000/CREDITS.md) |
 
+| **EP015** | [SCP-914](https://scp-jp.wikidot.com/scp-914)／[実験914-0260](https://scp-wiki.wikidot.com/experiment-log-914/offset/1) | **ぜんまい仕掛け（本編3P）** | [P001〜P003文章ネーム](EP015_SCP-914/name/P001.md)（公開原稿が正本） | **[完成3P・元Blob SHAを保って整理](EP015_SCP-914/images/README.md)** | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/151299698)**（2026-10-26） | [制作記録](EP015_SCP-914/README.md) ／ [公開記録](EP015_SCP-914/PUBLICATION.md) ／ [クレジット](EP015_SCP-914/CREDITS.md) |
+
 ## 幕間（本編の話数には含めない）
 
 - **[EP014 幕間「タウミエルって何？」](https://www.pixiv.net/artworks/151249158)** — 2026-10-25公開（作者報告）、カラー縦長1P・5コマ。[完成原稿](EP014_SCP-3000/interlude/images/final/P001.png)／[文章ネーム](EP014_SCP-3000/interlude/name/P001.md)／[公開記録](EP014_SCP-3000/interlude/PUBLICATION.md)。
