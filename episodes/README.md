@@ -29,6 +29,10 @@
 
 ## 幕間（本編の話数には含めない）
 
+- **[EP015 幕間「喫煙革命」](https://www.pixiv.net/artworks/151342339)** — 2026-10-27 pixiv公開済み（作者報告）、カラー縦長1P・5コマ。実験914-1142の喫煙欲求を誘発する帽子が題材。[完成原稿](EP015_SCP-914/interlude/images/final/P001.png)／[文章ネーム](EP015_SCP-914/interlude/name/P001.md)／[公開記録](EP015_SCP-914/interlude/PUBLICATION.md)／[クレジット](EP015_SCP-914/interlude/CREDITS.md)。本編EP015の3Pとは別。
+
+
+
 - **[EP014 幕間「タウミエルって何？」](https://www.pixiv.net/artworks/151249158)** — 2026-10-25公開（作者報告）、カラー縦長1P・5コマ。[完成原稿](EP014_SCP-3000/interlude/images/final/P001.png)／[文章ネーム](EP014_SCP-3000/interlude/name/P001.md)／[公開記録](EP014_SCP-3000/interlude/PUBLICATION.md)。
 
 

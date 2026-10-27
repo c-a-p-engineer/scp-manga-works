@@ -7,7 +7,8 @@
 - **reference**: 2026-10-26にマスターが「いいね。絵柄とこの塗りを標準にしたい」と承認した **EP015 / SCP-914 幕間「喫煙革命」再生成候補**
 - **reference generation ID**: `07a13ea9-3c34-4765-aee7-8908675396d6`
 - **reference image SHA-256**: `1340fb614b09c817b05b5eb1609da4f5565aa6bceb6fbd3db5b54046fb66521b` (1024 × 1536 PNG)
-- **image storage caveat**: この承認画像のバイナリは現時点で本リポジトリに未収録。上記は識別・来歴情報であり、このmdだけでは画像モデルに参照PNGが渡ったことにならない。画像ファイルが別途アップロード・採用された場合は実体とSHAを照合し、参照パスをここへ追記する。
+- **reference image (adopted)**: [EP015 幕間「喫煙革命」P001](../episodes/EP015_SCP-914/interlude/images/final/P001.png)（2026-10-27アップロード、前述のSHA-256と一致。元画像を無加工で保存）。
+- **image-use boundary**: このPNGはシリーズの絵柄・塗り・背景密度の実画像参照。画像生成時は実体PNGを提供すること。Character Sheetの人物同一性や作品ごとのネームを上書きしない。
 
 ## 目的と境界
 
