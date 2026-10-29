@@ -118,6 +118,8 @@
 
 以前のSCP-650案は[不採用の初期草稿](episodes/EP001_SCP-650/README.md)として残しています。
 
+**[EP016 — SCP-294-J「一杯の文明」](episodes/EP016_SCP-294-J/README.md)** — **本編1P＋[幕間「煙の中の文明」1P](episodes/EP016_SCP-294-J/interlude/README.md)**、2026-10-30作者報告でpixiv公開済み。[本編](https://www.pixiv.net/artworks/151428321)／[幕間](https://www.pixiv.net/artworks/151433586)。[採用原稿と公開記録](episodes/EP016_SCP-294-J/PUBLICATION.md)を参照。
+
 ## ディレクトリ
 
 ```text

@@ -10,6 +10,8 @@
 
 | [EP009「思い出の一杯」](episodes/EP009_SCP-1641-JP/README.md)／[幕間](episodes/EP009_SCP-1641-JP/interlude/README.md) | SCP-1641-JP / ノスタルジア☆コーヒーメーカー | **kossy** | [原作](https://scp-jp.wikidot.com/scp-1641-jp) | [本編公開](https://www.pixiv.net/artworks/151036333)・[幕間公開](https://www.pixiv.net/artworks/151036388)（全4P、CC BY-SA 3.0） |
 
+| [EP016「一杯の文明」](episodes/EP016_SCP-294-J/README.md)／[幕間](episodes/EP016_SCP-294-J/interlude/README.md) | **SCP-294-J「淹れたての創世記」** | **Penton**（訳：DirStarFish） | [原文](https://scp-wiki.wikidot.com/scp-294-j) ／ [日本語訳](https://scp-jp.wikidot.com/scp-294-j) | [本編](https://www.pixiv.net/artworks/151428321)・[幕間](https://www.pixiv.net/artworks/151433586)（各1P、CC BY-SA 3.0） |
+
 初期案SCP-650（Dr Talson）は[不採用の草稿](episodes/EP001_SCP-650/README.md)として別途保存。現在の第1話はSCP-403です。
 
 各話ごとに `CREDITS.md` を作成し、原作記事名・作者名・一次URL・必要な追加素材の出典を記録します。原作者はSCP Wikiの記事末尾の引用表示などで確認します。

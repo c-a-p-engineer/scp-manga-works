@@ -27,7 +27,12 @@
 
 | **EP015** | [SCP-914](https://scp-jp.wikidot.com/scp-914)／[実験914-0260](https://scp-wiki.wikidot.com/experiment-log-914/offset/1) | **ぜんまい仕掛け（本編3P）** | [P001〜P003文章ネーム](EP015_SCP-914/name/P001.md)（公開原稿が正本） | **[完成3P・元Blob SHAを保って整理](EP015_SCP-914/images/README.md)** | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/151299698)**（2026-10-26） | [制作記録](EP015_SCP-914/README.md) ／ [公開記録](EP015_SCP-914/PUBLICATION.md) ／ [クレジット](EP015_SCP-914/CREDITS.md) |
 
+| **EP016** | [SCP-294-J](https://scp-jp.wikidot.com/scp-294-j) | **一杯の文明（本編1P）** | [公開原稿対応ネーム](EP016_SCP-294-J/name/P001.md)（右→左・4コマ） | **[完成原稿1P保存](EP016_SCP-294-J/images/final/P001.png)**（原Blob SHA保持） | **[pixiv公開済み・作者報告](https://www.pixiv.net/artworks/151428321)**（投稿時刻未確認） | [制作記録](EP016_SCP-294-J/README.md) ／ [公開記録](EP016_SCP-294-J/PUBLICATION.md) ／ [原典](EP016_SCP-294-J/CREDITS.md) |
+
 ## 幕間（本編の話数には含めない）
+
+- **[EP016 幕間「煙の中の文明」](https://www.pixiv.net/artworks/151433586)** — 作者報告によりpixiv公開済み、カラー縦長1P・4コマ。本編とは別投稿。[完成原稿](EP016_SCP-294-J/interlude/images/final/P001.png)／[公開原稿対応ネーム](EP016_SCP-294-J/interlude/name/P001.md)／[公開記録](EP016_SCP-294-J/interlude/PUBLICATION.md)／[クレジット](EP016_SCP-294-J/interlude/CREDITS.md)。投稿時刻とpixiv配信画像とのバイナリ一致は未確認。
+
 
 - **[EP015 幕間「喫煙革命」](https://www.pixiv.net/artworks/151342339)** — 2026-10-27 pixiv公開済み（作者報告）、カラー縦長1P・5コマ。実験914-1142の喫煙欲求を誘発する帽子が題材。[完成原稿](EP015_SCP-914/interlude/images/final/P001.png)／[文章ネーム](EP015_SCP-914/interlude/name/P001.md)／[公開記録](EP015_SCP-914/interlude/PUBLICATION.md)／[クレジット](EP015_SCP-914/interlude/CREDITS.md)。本編EP015の3Pとは別。
 
