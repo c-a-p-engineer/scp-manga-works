@@ -28,7 +28,7 @@
 | **EP015** | [SCP-914](https://scp-jp.wikidot.com/scp-914)／[実験914-0260](https://scp-wiki.wikidot.com/experiment-log-914/offset/1) | **ぜんまい仕掛け（本編3P）** | [P001〜P003文章ネーム](EP015_SCP-914/name/P001.md)（公開原稿が正本） | **[完成3P・元Blob SHAを保って整理](EP015_SCP-914/images/README.md)** | **[pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/151299698)**（2026-10-26） | [制作記録](EP015_SCP-914/README.md) ／ [公開記録](EP015_SCP-914/PUBLICATION.md) ／ [クレジット](EP015_SCP-914/CREDITS.md) |
 
 | **EP016** | [SCP-294-J](https://scp-jp.wikidot.com/scp-294-j) | **一杯の文明（本編1P）** | [公開原稿対応ネーム](EP016_SCP-294-J/name/P001.md)（右→左・4コマ） | **[完成原稿1P保存](EP016_SCP-294-J/images/final/P001.png)**（原Blob SHA保持） | **[pixiv公開済み・作者報告](https://www.pixiv.net/artworks/151428321)**（投稿時刻未確認） | [制作記録](EP016_SCP-294-J/README.md) ／ [公開記録](EP016_SCP-294-J/PUBLICATION.md) ／ [原典](EP016_SCP-294-J/CREDITS.md) |
-| **EP017** | **[O5評議会](https://scp-jp.wikidot.com/o5-command-dossier)**（既紹介の[SCP-914](https://scp-jp.wikidot.com/scp-914)の実験記録から導入） | **O5って何です？（2P）** | **文章ネーム草稿v4（2P・計8コマ、P002第4コマで終幕）**（旧SCP-662導入案は不採用候補として保管） | 未生成 | 未公開 | [現行制作記録](EP017_O5/README.md) ／ [P001](EP017_O5/name/P001.md)・[P002](EP017_O5/name/P002.md) ／ [出典](EP017_O5/CREDITS.md) ／ [旧案](EP017_SCP-662/README.md) |
+| **EP017** | **[O5評議会](https://scp-jp.wikidot.com/o5-command-dossier)**（既紹介の[SCP-914](https://scp-jp.wikidot.com/scp-914)の実験記録から導入） | **O5って何です？（2P）** | **文章ネーム草稿v4（2P・計8コマ、P001読み仮名追加、P002第4コマで終幕）**（旧SCP-662導入案は不採用候補として保管） | 会話内候補あり（GitHub未収録・未採用） | 未公開 | [現行制作記録](EP017_O5/README.md) ／ [P001](EP017_O5/name/P001.md)・[P002](EP017_O5/name/P002.md) ／ [出典](EP017_O5/CREDITS.md) ／ [旧案](EP017_SCP-662/README.md) |
 
 ## 幕間（本編の話数には含めない）
 
