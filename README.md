@@ -75,6 +75,8 @@
 
 ## 公開済みエピソード
 
+**[EP017 — O5って何です？](episodes/EP017_O5/README.md)** — **[2026-10-31 pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/151487917)**、カラー全2P。既出SCP-914の記録からO5評議会を紹介。[完成原稿P001](episodes/EP017_O5/images/final/P001.png)・[P002](episodes/EP017_O5/images/final/P002.png)／[公開記録](episodes/EP017_O5/PUBLICATION.md)。
+
 **[EP015 幕間「喫煙革命」](episodes/EP015_SCP-914/interlude/README.md)** — 2026-10-27 pixiv公開済み（作者報告）・カラー1P。[公開作品](https://www.pixiv.net/artworks/151342339)／[完成原稿](episodes/EP015_SCP-914/interlude/images/final/P001.png)。[シリーズ標準ビジュアル v2.0](series/VISUAL_STYLE.md)の画像参照でもある。
 
 
