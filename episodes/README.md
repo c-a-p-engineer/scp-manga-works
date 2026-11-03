@@ -29,6 +29,7 @@
 
 | **EP016** | [SCP-294-J](https://scp-jp.wikidot.com/scp-294-j) | **一杯の文明（本編1P）** | [公開原稿対応ネーム](EP016_SCP-294-J/name/P001.md)（右→左・4コマ） | **[完成原稿1P保存](EP016_SCP-294-J/images/final/P001.png)**（原Blob SHA保持） | **[pixiv公開済み・作者報告](https://www.pixiv.net/artworks/151428321)**（投稿時刻未確認） | [制作記録](EP016_SCP-294-J/README.md) ／ [公開記録](EP016_SCP-294-J/PUBLICATION.md) ／ [原典](EP016_SCP-294-J/CREDITS.md) |
 | **EP017** | **[O5評議会](https://scp-jp.wikidot.com/o5-command-dossier)**（既紹介の[SCP-914](https://scp-jp.wikidot.com/scp-914)の実験記録から導入） | **O5って何です？（2P）** | [文章ネームv5](EP017_O5/name/P001.md)（公開原稿が正本） | **[本編P001](EP017_O5/images/final/P001.png)・[P002](EP017_O5/images/final/P002.png)** ／ **[幕間P001](EP017_O5/interlude/images/final/P001.png) 完成・保存済み**（原Blob SHA維持） | **[本編公開済み（作者報告・2026-10-31）](https://www.pixiv.net/artworks/151487917)** ／ **[幕間公開済み（作者報告・2026-11-02）](https://www.pixiv.net/artworks/151587262)** | [制作記録](EP017_O5/README.md) ／ [幕間「先駆者」完成・制作記録](EP017_O5/interlude/README.md) ／ [幕間公開記録](EP017_O5/interlude/PUBLICATION.md) ／ [公開記録](EP017_O5/PUBLICATION.md) ／ [画像の来歴](EP017_O5/images/README.md) ／ [出典](EP017_O5/CREDITS.md) ／ [旧案](EP017_SCP-662/README.md) |
+| **EP018** | [SCP-3295](https://scp-jp.wikidot.com/scp-3295) | **ご喫煙ありがとうございます（本編候補2P・7コマ）** | [P001](EP018_SCP-3295/name/P001.md)・[P002](EP018_SCP-3295/name/P002.md)／v2（「竜の巣だ！」「SCP-3295だ」反映） | **未生成** | **未公開** | [制作記録](EP018_SCP-3295/README.md) ／ [クレジット](EP018_SCP-3295/CREDITS.md) |
 
 ## 幕間（本編の話数には含めない）
 
