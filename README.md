@@ -75,6 +75,8 @@
 
 ## 公開済みエピソード
 
+**[EP018 — SCP-3295「ご喫煙ありがとうございます」](episodes/EP018_SCP-3295/README.md)** — **[pixiv公開済み（2026-11-04作者報告）](https://www.pixiv.net/artworks/151666999)**、カラー2P。指定異世界喫煙室のワームホール・1982年出現・電子タバコ対応を紹介。[P001](episodes/EP018_SCP-3295/images/final/P001.png)／[P002](episodes/EP018_SCP-3295/images/final/P002.png)／[公開記録](episodes/EP018_SCP-3295/PUBLICATION.md)。
+
 **[EP017 幕間「先駆者」](episodes/EP017_O5/interlude/README.md)** — **[pixiv公開済み（2026-11-02作者報告）](https://www.pixiv.net/artworks/151587262)**、カラー1P。SCP-3295のO5-6と異常喫煙室の逸話。[完成原稿](episodes/EP017_O5/interlude/images/final/P001.png)／[公開記録](episodes/EP017_O5/interlude/PUBLICATION.md)。
 
 **[EP017 — O5って何です？](episodes/EP017_O5/README.md)** — **[2026-10-31 pixiv公開済み（作者報告）](https://www.pixiv.net/artworks/151487917)**、カラー全2P。既出SCP-914の記録からO5評議会を紹介。[完成原稿P001](episodes/EP017_O5/images/final/P001.png)・[P002](episodes/EP017_O5/images/final/P002.png)／[公開記録](episodes/EP017_O5/PUBLICATION.md)。
